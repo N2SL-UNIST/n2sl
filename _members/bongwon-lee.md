@@ -1,6 +1,6 @@
 ---
 name: Bongwon Lee
-image: images/People/photo.jpg
+image: images/People/bongwon-lee.jpg
 role: alum-ms
 aliases:
 links:
