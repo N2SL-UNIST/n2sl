@@ -189,18 +189,6 @@
   gsid: oktgJK8AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: oktgJK8AAAAJ:Se3iqnhoufwC
-  title: Modeling MPTCP performance
-  authors:
-  - J Lee
-  - Y Im
-  - J Lee
-  publisher: IEEE communications letters 23 (4), 616-619, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Se3iqnhoufwC
-  gsid: oktgJK8AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: oktgJK8AAAAJ:eQOLeE2rZwMC
   title: Method for providing video streaming service and mobile device for same
   authors:
@@ -214,6 +202,18 @@
   publisher: US Patent 10,631,030, 2020
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:eQOLeE2rZwMC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: oktgJK8AAAAJ:Se3iqnhoufwC
+  title: Modeling MPTCP performance
+  authors:
+  - J Lee
+  - Y Im
+  - J Lee
+  publisher: IEEE communications letters 23 (4), 616-619, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Se3iqnhoufwC
   gsid: oktgJK8AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -309,6 +309,22 @@
   gsid: oktgJK8AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: oktgJK8AAAAJ:Zph67rFs4hoC
+  title: 'ECHO: Efficiently overbooking applications to create a highly available
+    cloud'
+  authors:
+  - P Rahimzadeh
+  - Y Im
+  - G Jung
+  - C Joe-Wong
+  - S Ha
+  publisher: "2019 IEEE 39th International Conference on Distributed Computing Systems\
+    \ \u2026, 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Zph67rFs4hoC
+  gsid: oktgJK8AAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: oktgJK8AAAAJ:roLk4NBRz8UC
   title: 'Development of an EPIC parallel computing framework to facilitate regional/global
     gridded crop modeling with multiple scenarios: A case study of the United States'
@@ -352,22 +368,6 @@
   publisher: IEEE INFOCOM 2021-IEEE Conference on Computer Communications, 1-10, 2021
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Wp0gIr-vW9MC
-  gsid: oktgJK8AAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: oktgJK8AAAAJ:Zph67rFs4hoC
-  title: 'ECHO: Efficiently overbooking applications to create a highly available
-    cloud'
-  authors:
-  - P Rahimzadeh
-  - Y Im
-  - G Jung
-  - C Joe-Wong
-  - S Ha
-  publisher: "2019 IEEE 39th International Conference on Distributed Computing Systems\
-    \ \u2026, 2019"
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Zph67rFs4hoC
   gsid: oktgJK8AAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
