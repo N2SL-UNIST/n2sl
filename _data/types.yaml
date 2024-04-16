@@ -28,7 +28,7 @@ current-phd:
 
 current-phd&ms:
   icon: fa-solid fa-graduation-cap
-  description: Integrated MS/PhD Student
+  description: Combined MS/PhD Student
 
 current-ms:
   icon: fa-solid fa-building-columns
