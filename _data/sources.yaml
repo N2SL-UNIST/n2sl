@@ -1,8 +1,9 @@
-- title: Femtocell-based Testbed for Evaluating Future Cellular Networks
+- id: CFI(2008)061801
+  title: A Femtocell-based Testbed for Evaluating Future Cellular Networks
   authors:
   - Hakyung Jung
   - Ji Hoon Lee
-  - Chulhyun Park
+  - Chulhyun Park 
   - Youngbin Im
   - Taekyoung Kwon
   - Yanghee Choi
@@ -10,7 +11,8 @@
   date: '2008-06-18'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u5HHmVD_uO8C
   
-  - title: Performance Evaluation in Combination of Wired and Wireless Mesh Networks
+- id: 1229-7712(pISSN)-778-782
+  title: Performance Evaluation in Combination of Wired and Wireless Mesh Networks
   authors:
   - Jin-Young Han
   - Hee-Dong Jung
@@ -19,11 +21,12 @@
   - Ji-Ho Ryu
   - Tae-Kyoung Kwon
   - Yang-Hee Choi
-  publisher: 'Journal of KIISE: Computing Practices and Letters 14 (8), 778-782, 2008'
+  publisher: 'Journal of KIISE: Computing Practices and Letters 14 (2008)'
   date: '2008-11-15'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:hqOjcs7Dif8C
 
-- title: 'FIRM: Flow-based interference-aware route management in wireless mesh networks'
+- id: doi:10.1109/SAHCNW.2009.5172936
+  title: 'FIRM: Flow-based interference-aware route management in wireless mesh networks'
   authors:
   - Youngbin Im
   - Jeongkeun Lee
@@ -34,7 +37,8 @@
   date: '2009-06-22'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:YsMSGLbcyi4C
 
-- title: 'Vertical Handovers in Multiple Heterogeneous Wireless Networks: A Measurement Study for the Future Internet'
+- id: doi:10.1145/1853079.1853083
+  title: 'Vertical Handovers in Multiple Heterogeneous Wireless Networks: A Measurement Study for the Future Internet'
   authors:
   - Youngbin Im
   - Hakyung Jung
@@ -42,11 +46,12 @@
   - Wonjun Yoo
   - Ted "Taekyoung" Kwon
   - Yanghee Choi
-  publisher: "International Conference on Future Internet Technologies (CFI) 2010"
+  publisher: 'International Conference on Future Internet Technologies (CFI) 2010'
   date: '2010-06-16'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qjMakFHDy7sC
 
-- title: 'TUBE: Time-dependent pricing for mobile data'
+- id: doi:10.1145/2342356.2342402
+  title: 'TUBE: Time-dependent pricing for mobile data'
   authors:
   - Sangtae Ha
   - Soumya Sen
@@ -57,7 +62,8 @@
   date: '2012-08-13'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:W7OEmFMy1HYC
 
-- title: 'MASERATI: Mobile Adaptive Streaming based on Environmental and Contextual Information'
+- id: doi:10.1145/2505469.2505473
+  title: 'MASERATI: Mobile Adaptive Streaming based on Environmental and Contextual Information'
   authors:
   - Dookyoon Han
   - Jinyoung Han
@@ -69,7 +75,34 @@
   date: '2013-09-30'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u-x6o8ySG0sC
 
-- title: 'AMUSE: Empowering Users for Cost-Aware Offloading with Throughput-Delay Tradeoffs'
+- id: doi:10.1109/INFCOM.2013.6566810
+  title: 'AMUSE: Empowering Users for Cost-Aware Offloading with Throughput-Delay Tradeoffs'
+  authors:
+  - Youngbin Im
+  - Carlee Joe-Wong
+  - Sangtae Ha
+  - Soumya Sen
+  - Ted "Taekyoung" Kwon
+  - Mung Chiang
+  publisher: IEEE INFOCOM 2013
+  date: '2013-04-15'
+  link: https://www.infona.pl/resource/bwmeta1.element.ieee-art-000006566810
+
+- id: doi:10.1109/TMC.2015.2456881
+  title: 'AMUSE: Empowering Users for Cost-Aware Offloading with Throughput-Delay Tradeoffs'
+  authors:
+  - Youngbin Im
+  - Carlee Joe-Wong
+  - Sangtae Ha
+  - Soumya Sen
+  - Ted "Taekyoung" Kwon
+  - Mung Chiang
+  publisher: IEEE Transactions on Mobile Computing(TMC)
+  date: '2015-07-15'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:2osOgNQ5qMEC
+
+- id: doi:10.1109/TMC.2015.2456881
+  title: 'AMUSE: Empowering Users for Cost-Aware Offloading with Throughput-Delay Tradeoffs'
   authors:
   - Youngbin Im
   - Carlee Joe-Wong
@@ -79,9 +112,10 @@
   - Mung Chiang
   publisher: IEEE Transactions on Mobile Computing(TMC)
   date: '2016-05-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:2osOgNQ5qMEC
+  link: https://dl.acm.org/doi/abs/10.1109/TMC.2015.2456881
 
-- title: A Performance Analysis of Incentive Mechanism for Cooperative Computing
+- id: doi:10.1109/ICDCS.2016.103
+  title: A Performance Analysis of Incentive Mechanism for Cooperative Computing
   authors:
   - Carlee Joe-Wong
   - Youngbin Im
@@ -91,7 +125,8 @@
   date: '2016-06-27'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9yKSN-GCB0IC
 
--title: Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Device
+- id: doi:10.1145/3131672.3131695
+  title: Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Device
   authors:
   - Jincao Zhu,
   - Youngbin Im
@@ -101,7 +136,8 @@
   date: '2017-11-16'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:zYLM7Y9cAGgC
 
-- title: 'SVC-TChain: Incentivizing Good Behavior in Layered P2P Video Streaming'
+- id: doi:10.1109/INFOCOM.2017.8057140
+  title: 'SVC-TChain: Incentivizing Good Behavior in Layered P2P Video Streaming'
   authors:
   - Parisa Rahimzadeh
   - Carlee Joe-Wong
@@ -113,7 +149,8 @@
   date: '2017-05-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Y0pCki6q_DkC
 
-- title: 'FluidMem: Memory as a Service for the Datacenter'
+- id: doi:10.48550/arXiv.1707.07780
+  title: 'FluidMem: Memory as a Service for the Datacenter'
   authors:
   - Blake Caldwell
   - Youngbin Im
@@ -122,10 +159,10 @@
   - Eric Keller
   publisher: arXiv preprint arXiv:1707.07780
   date: '2017-07-25'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Tyk-4Ss8FVUC
+  link: https://doi.org/10.48550/arXiv.1707.07780
 
-- title: 'FLARE: Coordinated Rate Adaptation for HTTP Adaptive Streaming in Cellular Networks
-    networks'
+- id: doi:10.1109/ICDCS.2017.195
+  title: 'FLARE: Coordinated Rate Adaptation for HTTP Adaptive Streaming in Cellular Networks'
   authors:
   - Youngbin Im
   - Jinyoung Han
@@ -138,7 +175,8 @@
   date: '2017-06-05'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:d1gkVwhDpl0C
 
-- title: Method and apparatus for assigning video bitrate in mobile communication system
+- id: US9398337B2
+  title: Method and apparatus for assigning video bitrate in mobile communication system
   authors:
   - Hyungho Lee
   - Taekyoung Kwon
@@ -151,7 +189,8 @@
   date: '2016-07-19'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:WF5omc3nYNoC
 
-- title: A Practical Evaluation of Rate Adaptation Algorithms in HTTP-based Adaptive Streaming
+- id: doi:10.1016/j.comnet.2018.01.019
+  title: A Practical Evaluation of Rate Adaptation Algorithms in HTTP-based Adaptive Streaming
   authors:
   - Ibrahim Ayad
   - Youngbin Im
@@ -161,7 +200,8 @@
   date: '2018-03-14'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:ufrVoPGSRksC
 
-- title: 'SNN-Cache: A Practical Machine Learning-based Caching System Utilizing the Inter-relationships of Requests'
+- id: doi:10.1109/CISS.2018.8362281
+  title: 'SNN-Cache: A Practical Machine Learning-based Caching System Utilizing the Inter-relationships of Requests'
   authors:
   - Youngbin Im
   - Prasanth Prahladan
@@ -172,7 +212,8 @@
   date: '2018-03-21'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:_FxGoFyzp5QC
 
-- title: 'Development of an EPIC Parallel Computing Framework to Facilitate Regional/Global Gridded Crop Modeling with Multiple Scenarios: A Case Study of the United States'
+- id: doi:10.1016/j.compag.2019.02.004
+  title: 'Development of an EPIC Parallel Computing Framework to Facilitate Regional/Global Gridded Crop Modeling with Multiple Scenarios: A Case Study of the United States'
   authors:
   - Won Seok Jang
   - Yonggwan Lee
@@ -184,7 +225,8 @@
   date: '2019-03-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:roLk4NBRz8UC
 
-- title: 'I Sent It: Where Does Slow Data Go to Wait?'
+- id: doi:10.1145/3302424.3303961
+  title: 'I Sent It: Where Does Slow Data Go to Wait?'
   authors:
   - Youngbin Im
   - Parisa Rahimzadeh
@@ -197,7 +239,8 @@
   date: '2019-03-25'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UebtZRa9Y70C
 
-- title: Modeling MPTCP performance
+- id: doi:10.1109/LCOMM.2019.2898664
+  title: Modeling MPTCP performance
   authors:
   - Jinsung Lee
   - Youngbin Im
@@ -206,7 +249,8 @@
   date: '2019-02-10'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Se3iqnhoufwC
 
-- title: 'CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions'
+- id: doi:10.1145/3307334.3326086
+  title: 'CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions'
   authors:
   - Jihoon Lee
   - Jinsung Lee
@@ -222,7 +266,8 @@
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:8k81kl-MbHgC
 
-- title: 'CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions (demo)'
+- id: doi:10.1145/3307334.3328576
+  title: 'CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions (demo)'
   authors:
   - Sandesh Dhawaskar Sathyanarayana
   - Jihoon Lee
@@ -236,9 +281,10 @@
   - Sangtae Ha
   publisher: The 17th Annual International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2019)
   date: '2019-06-12'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:8k81kl-MbHgC
+  link: https://dl.acm.org/doi/abs/10.1145/3307334.3328576
 
-- title: 'This is Your President Speaking: Spoofing Alerts in 4G LTE Networks'
+- id: doi:10.1145/3307334.3326082
+  title: 'This is Your President Speaking: Spoofing Alerts in 4G LTE Networks'
   authors:
   - Gyuhong Lee
   - Jihoon Lee
@@ -252,7 +298,8 @@
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:5nxA0vEk-isC
 
-- title: 'This is Your President Speaking: Spoofing Alerts in 4G LTE Networks (demo)'
+- id: doi:10.1145/3307334.3328572
+  title: 'This is Your President Speaking: Spoofing Alerts in 4G LTE Networks (demo)'
   authors:
   - Max Hollingsworth
   - Gyuhong Lee
@@ -266,7 +313,8 @@
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:0EnyYjriUFMC
 
-- title: "DEMO-This is Your President Speaking: Spoofing Alerts in 4G LTE Networks"
+- id: doi:10.1145/3307334.3328572
+  title: "DEMO-This is Your President Speaking: Spoofing Alerts in 4G LTE Networks"
   authors:
   - Max Hollingsworth
   - Gyuhong Lee
@@ -280,8 +328,8 @@
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:4DMP91E08xMC
 
-
-- title: 'ECHO: Efficiently Overbooking Applications to Create a Highly Available Cloud'
+- id: doi:10.1109/ICDCS.2019.00010
+  title: 'ECHO: Efficiently Overbooking Applications to Create a Highly Available Cloud'
   authors:
   - Parisa Rahimzadeh
   - Youngbin Im
@@ -292,7 +340,8 @@
   date: '2019-07-07'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Zph67rFs4hoC
 
-- title: Optimal Learning-Based Network Protocol Selection
+- id: ISCA(2019)
+  title: Optimal Learning-Based Network Protocol Selection
   authors:
   - Xiaoxi Zhang
   - Siqi Chen
@@ -302,9 +351,10 @@
   - Carlee Joe-Wong
   publisher: IEEE/ACM ISCA Workshop on Machine Learning for Systems 2019
   date: '2019-06-23'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:KlAtU1dfN6UC
+  link: https://mlforsystems.org/assets/papers/isca2019/MLforSystems2019_Xiaoxi_Zhang.pdf
 
-- title: 'Towards Automated Network Management: Learning the Optimal Protocol Selction'
+- id: doi:10.1109/ICNP.2019.8888100
+  title: 'Towards Automated Network Management: Learning the Optimal Protocol Selction'
   authors:
   - Xiaoxi Zhang
   - Siqi Chen
@@ -316,7 +366,8 @@
   date: '2019-10-08'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:kNdYIx-mwKoC
 
-- title: Integrated Large-Scale Modeling Framework for N2O Emissions Estimation in an Agricultural Field using Parallel Computing.
+- id: issn:1029-7006/140487542
+  title: Integrated Large-Scale Modeling Framework for N2O Emissions Estimation in an Agricultural Field using Parallel Computing.
   authors:
   - Won Seok Jang
   - Jason Neff
@@ -327,7 +378,8 @@
   date: '2019-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:YOwf2qJgpHMC
 
-- title: 'FluidMem: Full Flexible and Fast Memory Disaggregation for the Cloud'
+- id: doi:10.1109/ICDCS47774.2020.00090
+  title: 'FluidMem: Full Flexible and Fast Memory Disaggregation for the Cloud'
   authors:
   - Blake Caldwell
   - Sepideh Goodarzy
@@ -340,7 +392,8 @@
   date: '2020-11-29'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:_kc_bZDykSQC
 
-- title: 'SPARCLE: Streaming Processing Applications over Dispersed Computing Networks'
+- id: doi:10.1109/ICDCS47774.2020.00112
+  title: 'SPARCLE: Streaming Processing Applications over Dispersed Computing Networks'
   authors:
   - Parisa Rahimzadeh
   - Jeongkeun Lee
@@ -355,7 +408,8 @@
   date: '2020-11-29'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qxL8FJ1GzNc
 
-- title: Method for providing video streaming service and mobile device for same
+- id: US10631030B2
+  title: Method for providing video streaming service and mobile device for same
   authors:
   - Hyung-Ho Lee
   - Taekyoung Kwon
@@ -368,7 +422,8 @@
   date: '2020-04-21'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:eQOLeE2rZwMC
 
-- title: Method and apparatus for controlling send buffer of transmission control protocol in communication system
+- id: US10560389B2
+  title: Method and apparatus for controlling send buffer of transmission control protocol in communication system
   authors:
   - Jin-Sung Lee
   - Young-Bin Im
@@ -381,7 +436,8 @@
   date: '2020-02-11'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:IjCSPb-OGe4C
 
-- title: The Hidden Costs of Land Degradation in U.S. Maize Agriculture
+- id: doi:10.1029/2020EF001641 
+  title: The Hidden Costs of Land Degradation in U.S. Maize Agriculture
   authors:
   - Won Seok Jang
   - Jason Neff
@@ -392,7 +448,8 @@
   date: '2021-02-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:aqlVkmm33-oC
 
-- title: 'ECLAT: An ECN marking system for latency guarantee in cellular networks'
+- id: 10.1109/INFOCOM42981.2021.9488762
+  title: 'ECLAT: An ECN marking system for latency guarantee in cellular networks'
   authors:
   - Junseon Kim
   - Youngbin Im
@@ -401,7 +458,8 @@
   date: '2021-05-10'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Wp0gIr-vW9MC
 
-- title: 'Network latency analysis using eBPF'
+- id: KICS2021S01
+  title: 'Network latency analysis using eBPF'
   authors:
   - Shaikhitdin Nezametdinov
   - Youngbin Im
@@ -409,7 +467,8 @@
   date: '2022-06-16'
   link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10586969&googleIPSandBox=false&mark=0&ipRange=false&b2cLoginYN=false&aiChatView=A&readTime=5-10&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true
 
-- title: Securing the wireless emergency alerts system
+- id: doi:10.1145/3481042
+  title: Securing the Wireless Emergency Alerts System
   authors:
   - Jihoon Lee
   - Gyuhong Lee
@@ -423,7 +482,8 @@
   date: '2021-09-22'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9ZlFYXVOiuMC
 
-- title: 'An analysis of the DPDK performance on SmartNICs using eBPF'
+- id: KICS2021F01
+  title: 'An analysis of the DPDK performance on SmartNICs using eBPF'
   authors:
   - Bongwon Lee
   - Youngbin Im
@@ -431,7 +491,8 @@
   date: '2022-06-16'
   link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11022696
 
-- title: 'Modems: Optimizing edge computing migrations for user mobility'
+- id: doi:10.1109/JSAC.2022.3229425
+  title: 'Modems: Optimizing edge computing migrations for user mobility'
   authors:
   - Taejin Kim
   - Sandesh Dhawaskar Sathyanarayana
@@ -444,7 +505,8 @@
   date: '2022-12-21'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
 
-- title: Optimal network protocol selection for competing flows via online learning
+- id: doi:10.1109/tmc.2022.3162880
+  title: Optimal Network Protocol Selection for Competing Flows via Online Learning
   authors:
   - Xiaoxi Zhang
   - Siqi Chen
@@ -457,7 +519,8 @@
   date: '2022-04-11'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:dhFuZR0502QC
 
-- title: Enabling Delay-Guaranteed Congestion Control with One-Bit Feedback in Cellular Networks
+- id: doi:10.1109/TNET.2023.3268721
+  title: Enabling Delay-Guaranteed Congestion Control with One-Bit Feedback in Cellular Networks
   authors:
   - Junseon Kim
   - Youngbin Im
@@ -466,7 +529,8 @@
   date: '2023-06-16'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:L8Ckcad2t8MC
 
-- title: 'An Empirical Study of 5G: Effect of Edge on Transport Protocol and Application Performance'
+- id: doi:10.1109/TMC.2023.3274708
+  title: 'An Empirical Study of 5G: Effect of Edge on Transport Protocol and Application Performance'
   authors:
   - Hyoyoung Lim
   - Jinsung Lee
@@ -484,7 +548,8 @@
   date: '2023-05-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:7PzlFSSx8tAC
 
-- title: 'Demo: Pricing by Timing for Mobile Data'
+- id: INFOCOM2012Demo
+  title: 'Demo: Pricing by Timing for Mobile Data'
   authors:
   - Sangtae Ha
   - Soumya Sen
@@ -498,18 +563,3 @@
   publisher: 'IEEE INFOCOM 2012-IEEE Conference on Computer Communications'
   date: '2012-03-25'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UeHWp8X0CEIC
-
-  - title: Demo: Pricing by Timing for Mobile Data
-  authors:
-  - Sangtae Ha
-  - Soumya Sen
-  - Carlee Joe-Wong
-  - J Mifkovich
-  - R Rill
-  - Youngbin Im
-  - D Butnariu
-  - J Bawa
-  - M. Chiang
-  publisher: 'RBP: RSS-based Prediction of Carrier Sense and Interference in 802.11 Networks'
-  date: '2007-08-20'
-  link: https://ieeexplore.ieee.org/abstract/document/4292861/authors#authors
