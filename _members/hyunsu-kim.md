@@ -8,6 +8,6 @@ links:
   email: hyunsukim@unist.ac.kr
 ---
 
-Hyunsu Kim received the B.S. degree from the Department of Electrical Engineering, Handong Global University, South Korea, in 2023. He is currently pursuing the Integrated M.S./Ph.D.’s degree with the Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST). His research interests include enhancing data flow efficiency with smartNIC.
+Hyunsu Kim received the B.S. degree from the Department of Electrical Engineering, Handong Global University, South Korea, in 2023. He is currently pursuing the combined M.S./Ph.D. degree with the Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST). His research interests include enhancing data flow efficiency with smartNIC.
 
 Last updated: 2024

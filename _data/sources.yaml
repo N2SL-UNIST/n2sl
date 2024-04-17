@@ -548,7 +548,7 @@
   date: '2023-05-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:7PzlFSSx8tAC
 
-- id: INFOCOM2012Demo
+- id: 'INFOCOM2012Demo'
   title: 'Demo: Pricing by Timing for Mobile Data'
   authors:
   - Sangtae Ha
