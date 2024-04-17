@@ -1,4 +1,4 @@
-- id: CFI(2008)061801
+- id: do:CFI(2008)061801
   title: A Femtocell-based Testbed for Evaluating Future Cellular Networks
   authors:
   - Hakyung Jung
@@ -11,7 +11,7 @@
   date: '2008-06-18'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u5HHmVD_uO8C
   
-- id: 1229-7712(pISSN)-778-782
+- id: do:1229-7712(pISSN)-778-782
   title: Performance Evaluation in Combination of Wired and Wireless Mesh Networks
   authors:
   - Jin-Young Han
@@ -175,7 +175,7 @@
   date: '2017-06-05'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:d1gkVwhDpl0C
 
-- id: US9398337B2
+- id: patent:US9398337B2
   title: Method and apparatus for assigning video bitrate in mobile communication system
   authors:
   - Hyungho Lee
@@ -340,7 +340,7 @@
   date: '2019-07-07'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Zph67rFs4hoC
 
-- id: ISCA(2019)
+- id: do:ISCA(2019)
   title: Optimal Learning-Based Network Protocol Selection
   authors:
   - Xiaoxi Zhang
@@ -408,7 +408,7 @@
   date: '2020-11-29'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qxL8FJ1GzNc
 
-- id: US10631030B2
+- id: patent:US10631030B2
   title: Method for providing video streaming service and mobile device for same
   authors:
   - Hyung-Ho Lee
@@ -422,7 +422,7 @@
   date: '2020-04-21'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:eQOLeE2rZwMC
 
-- id: US10560389B2
+- id: patent:US10560389B2
   title: Method and apparatus for controlling send buffer of transmission control protocol in communication system
   authors:
   - Jin-Sung Lee
@@ -448,7 +448,7 @@
   date: '2021-02-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:aqlVkmm33-oC
 
-- id: 10.1109/INFOCOM42981.2021.9488762
+- id: doi:10.1109/INFOCOM42981.2021.9488762
   title: 'ECLAT: An ECN marking system for latency guarantee in cellular networks'
   authors:
   - Junseon Kim
@@ -458,7 +458,7 @@
   date: '2021-05-10'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Wp0gIr-vW9MC
 
-- id: KICS2021S01
+- id: do:KICS2021S01
   title: 'Network latency analysis using eBPF'
   authors:
   - Shaikhitdin Nezametdinov
@@ -482,7 +482,7 @@
   date: '2021-09-22'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9ZlFYXVOiuMC
 
-- id: KICS2021F01
+- id: do:KICS2021F01
   title: 'An analysis of the DPDK performance on SmartNICs using eBPF'
   authors:
   - Bongwon Lee
@@ -548,7 +548,7 @@
   date: '2023-05-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:7PzlFSSx8tAC
 
-- id: 'INFOCOM2012Demo'
+- id: do:INFOCOM2012Demo
   title: 'Demo: Pricing by Timing for Mobile Data'
   authors:
   - Sangtae Ha
