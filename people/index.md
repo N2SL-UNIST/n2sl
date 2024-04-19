@@ -27,7 +27,7 @@ nav:
 {% include list.html  data="members"  component="portrait"  filters="role: current" %}
 -->
 
-<!--
+
 {% include list.html  data="members"  component="portrait"  filters="role: pi" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-manager" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-technician" %}
@@ -37,7 +37,7 @@ nav:
 {% include list.html  data="members"  component="portrait"  filters="role: current-ms" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-undergrad" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-hs" %}
--->
+
 
 {% include section.html dark=true %} 
 ### N2SL is looking for motivated undergraduate/graduate students who are interested in networks and systems. Please send an email to **Prof. Im** if you want to work with us.
