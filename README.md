@@ -1,4 +1,4 @@
-Visit **[daeun2lee.github.io/lab-temp.github.io](https://daeun2lee.github.io/lab-temp.github.io)** 🚀
+Visit **[n2sl-unist.github.io/n2sl.github.io](https://n2sl-unist.github.io/n2sl.github.io)** 🚀
 
 
 # n2sl Website
