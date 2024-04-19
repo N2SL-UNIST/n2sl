@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-paper-plane" %}Contact
 
 
-Inquiries can be directed to [ybm@unist.ac.kr](mailto:ybm@unist.ac.kr).
+Inquiries can be directed to [ybim@unist.ac.kr](mailto:ybim@unist.ac.kr).
 {:.center}
 
 {% include section.html %}

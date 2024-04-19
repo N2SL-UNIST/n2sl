@@ -6,7 +6,7 @@ aliases:
   - Y. Im
   - Y Im
 links:
-  email: ybm@unist.ac.kr
+  email: ybim@unist.ac.kr
   orcid: 0000-0003-3756-5956
   google-scholar: oktgJK8AAAAJ
 ---
