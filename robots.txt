@@ -1,1 +1,1 @@
-Sitemap: /n2sl.github.io/sitemap.xml
+Sitemap: /n2sl/sitemap.xml
