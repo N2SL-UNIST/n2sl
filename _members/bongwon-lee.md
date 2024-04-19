@@ -7,7 +7,7 @@ links:
   email: qhddnjs1@unist.ac.kr
 ---
 
-Bongwon Lee received the B.S. degree from the School of Software, Soongsil University, South Korea, in 2021.
+Bongwon Lee received the B.S. degree from the School of Software, Soongsil University, South Korea, in 2020.
 He received the M.S. degrees in the Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST), in 2023. 
 His research interests include computer network.
 
