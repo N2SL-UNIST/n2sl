@@ -1,4 +1,4 @@
-Visit **[n2sl-unist.github.io/n2sl.github.io](https://n2sl-unist.github.io/n2sl.github.io)** 🚀
+Visit **[n2sl-unist.github.io/n2sl](https://n2sl-unist.github.io/n2sl)** 🚀
 
 
 # n2sl Website
