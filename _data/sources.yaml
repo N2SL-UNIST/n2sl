@@ -564,8 +564,8 @@
   date: '2022-03-02'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
 
-  - id: doi:10.1109/IWQOS52092.2021.9521352
-  title: 'Modems: Optimizing edge computing migrations for user mobility'
+- id: doi:10.1109/IWQOS52092.2021.9521352
+  title: 'Modems: Optimizing edge computing migrations for user mobility '
   authors:
   - Taejin Kim
   - Siqi Chen
