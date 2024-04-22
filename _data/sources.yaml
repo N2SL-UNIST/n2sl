@@ -474,7 +474,7 @@
   - Bongwon Lee
   - Youngbin Im
   publisher: KICS Fall Conference 2021
-  date: '2022-06-16'
+  date: '2021-09-22'
   link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11022696
 
 - id: doi:10.1109/JSAC.2022.3229425
@@ -549,3 +549,30 @@
   publisher: 'IEEE INFOCOM 2012-IEEE Conference on Computer Communications'
   date: '2012-03-25'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UeHWp8X0CEIC
+
+- id: doi:10.1109/INFOCOM48880.2022.9796680
+  title: 'Modems: Optimizing edge computing migrations for user mobility '
+  authors:
+  - Taejin Kim
+  - Sandesh Dhawaskar Sathyanarayana
+  - Siqi Chen
+  - Youngbin Im
+  - Xiaoxi Zhang
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: IEEE INFOCOM 2022
+  date: '2022-03-02'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
+
+- id: doi:10.1109/IWQOS52092.2021.9521352
+  title: 'Modems: Optimizing edge computing migrations for user mobility   '
+  authors:
+  - Taejin Kim
+  - Siqi Chen
+  - Youngbin Im
+  - Xiaoxi Zhang
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: IEEE/ACM IWQOS 2021
+  date: '2021-06-25'
+  link: https://ieeexplore.ieee.org/abstract/document/9796680/
