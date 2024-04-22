@@ -549,3 +549,17 @@
   publisher: 'IEEE INFOCOM 2012-IEEE Conference on Computer Communications'
   date: '2012-03-25'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UeHWp8X0CEIC
+
+- id: doi:10.1109/INFOCOM48880.2022.9796680
+  title: 'Modems: Optimizing edge computing migrations for user mobility'
+  authors:
+  - Taejin Kim
+  - Sandesh Dhawaskar Sathyanarayana
+  - Siqi Chen
+  - Youngbin Im
+  - Xiaoxi Zhang
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: IEEE INFOCOM 2022
+  date: '2022-03-02'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
