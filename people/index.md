@@ -18,6 +18,7 @@ nav:
 ## Current Members
 
 {% include list.html  data="members"  component="portrait"  filters="name: Seunghyeok Choi" %}
+{% include list.html  data="members"  component="portrait"  filters="name: Minseok Kim" %}
 {% include list.html  data="members"  component="portrait"  filters="name: Daeun Lee" %}
 {% include list.html  data="members"  component="portrait"  filters="name: Hyunsu Kim" %}
 {% include list.html  data="members"  component="portrait"  filters="name: Yeon An" %}
