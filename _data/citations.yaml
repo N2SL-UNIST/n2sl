@@ -1,0 +1,652 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1109/TMC.2023.3274708
+  title: 'An Empirical Study of 5G: Effect of Edge on Transport Protocol and Application
+    Performance'
+  authors:
+  - Hyoyoung Lim
+  - Jinsung Lee
+  - Jongyun Lee
+  - Sandesh Dhawaskar Sathyanarayana
+  - Junseon Kim
+  - Anh Nguyen
+  - Kwang Taik Kim
+  - Youngbin Im
+  - Mung Chiang
+  - Dirk Grunwald
+  - Kyunghan Lee
+  - Sangtae Ha
+  publisher: IEEE Transactions on Mobile Computing (TMC) 2023
+  date: '2023-05-12'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:7PzlFSSx8tAC
+  orcid: 0000-0003-3756-5956
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TNET.2023.3268721
+  title: Enabling Delay-Guaranteed Congestion Control with One-Bit Feedback in Cellular
+    Networks
+  authors:
+  - Junseon Kim
+  - Youngbin Im
+  - Kyunghan Lee
+  publisher: IEEE/ACM Transactions on Networking (ToN) 2023
+  date: '2023-06-16'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:L8Ckcad2t8MC
+  orcid: 0000-0003-3756-5956
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMC.2022.3162880
+  title: Optimal Network Protocol Selection for Competing Flows via Online Learning
+  authors:
+  - Xiaoxi Zhang
+  - Siqi Chen
+  - Yunfan Zhang
+  - Youngbin Im
+  - Maria Gorlatova
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2023-08-01'
+  link: https://doi.org/gtqpqz
+  orcid: 0000-0003-3756-5956
+  plugin: orcid.py
+  file: orcid.yaml
+- id: do:CFI(2008)061801
+  title: A Femtocell-based Testbed for Evaluating Future Cellular Networks
+  authors:
+  - Hakyung Jung
+  - Ji Hoon Lee
+  - Chulhyun Park
+  - Youngbin Im
+  - Taekyoung Kwon
+  - Yanghee Choi
+  publisher: International Conferences on Future Internet Technologies (CFI) 2008
+  date: '2008-06-18'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u5HHmVD_uO8C
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SAHCNW.2009.5172936
+  title: 'FIRM: Flow-based interference-aware route management in wireless mesh networks'
+  authors:
+  - Youngbin Im
+  - Jeongkeun Lee
+  - Jinyoung Han
+  - Sung-Ju Lee
+  - Taekyoung Kwon
+  publisher: IEEE Workshop on Wireless Mesh Networks (WiMesh) 2009
+  date: '2009-06-22'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:YsMSGLbcyi4C
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1853079.1853083
+  title: 'Vertical Handovers in Multiple Heterogeneous Wireless Networks: A Measurement
+    Study for the Future Internet'
+  authors:
+  - Youngbin Im
+  - Hakyung Jung
+  - Ji Hoon Lee
+  - Wonjun Yoo
+  - Ted "Taekyoung" Kwon
+  - Yanghee Choi
+  publisher: International Conference on Future Internet Technologies (CFI) 2010
+  date: '2010-06-16'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qjMakFHDy7sC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2342356.2342402
+  title: 'TUBE: Time-dependent pricing for mobile data'
+  authors:
+  - Sangtae Ha
+  - Soumya Sen
+  - Carlee Joe-Wong
+  - Youngbin Im
+  - Mung Chiang
+  publisher: ACM SIGCOMM 2012
+  date: '2012-08-13'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:W7OEmFMy1HYC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2505469.2505473
+  title: 'MASERATI: Mobile Adaptive Streaming based on Environmental and Contextual
+    Information'
+  authors:
+  - Dookyoon Han
+  - Jinyoung Han
+  - Youngbin Im
+  - Myungchul Kwak
+  - Ted "Taekyoung" Kwon
+  - Yanghee Choi
+  publisher: ACM International Workshop on Wireless Network Testbeds, Experimental
+    Evaluation and Characterization(WiNTECH)
+  date: '2013-09-30'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u-x6o8ySG0sC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFCOM.2013.6566810
+  title: 'AMUSE: Empowering Users for Cost-Aware Offloading with Throughput-Delay
+    Tradeoffs'
+  authors:
+  - Youngbin Im
+  - Carlee Joe-Wong
+  - Sangtae Ha
+  - Soumya Sen
+  - Ted "Taekyoung" Kwon
+  - Mung Chiang
+  publisher: IEEE INFOCOM 2013
+  date: '2013-04-15'
+  link: https://www.infona.pl/resource/bwmeta1.element.ieee-art-000006566810
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMC.2015.2456881
+  title: 'AMUSE: Empowering Users for Cost-Aware Offloading with Throughput-Delay
+    Tradeoffs'
+  authors:
+  - Youngbin Im
+  - Carlee Joe-Wong
+  - Sangtae Ha
+  - Soumya Sen
+  - Ted "Taekyoung" Kwon
+  - Mung Chiang
+  publisher: IEEE Transactions on Mobile Computing(TMC)
+  date: '2016-05-01'
+  link: https://dl.acm.org/doi/abs/10.1109/TMC.2015.2456881
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICDCS.2016.103
+  title: A Performance Analysis of Incentive Mechanism for Cooperative Computing
+  authors:
+  - Carlee Joe-Wong
+  - Youngbin Im
+  - Kyuyong Shin
+  - Sangtae Ha
+  publisher: 2016 IEEE 36th International Conference on Distributed Computing Systems
+    (ICDCS)
+  date: '2016-06-27'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9yKSN-GCB0IC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3131672.3131695
+  title: Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Device
+  authors:
+  - Jincao Zhu,
+  - Youngbin Im
+  - Shivakant Mishra
+  - Sangtae Ha
+  publisher: ACM Conference on Embedded Network Sensor Systems Sensys 2017
+  date: '2017-11-16'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:zYLM7Y9cAGgC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM.2017.8057140
+  title: 'SVC-TChain: Incentivizing Good Behavior in Layered P2P Video Streaming'
+  authors:
+  - Parisa Rahimzadeh
+  - Carlee Joe-Wong
+  - Kyuyong Shin
+  - Youngbin Im
+  - Jongdeog Lee
+  - Sangtae Ha
+  publisher: IEEE INFOCOM 2017-IEEE Conference on Computer Communications
+  date: '2017-05-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Y0pCki6q_DkC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.1707.07780
+  title: 'FluidMem: Memory as a Service for the Datacenter'
+  authors:
+  - Blake Caldwell
+  - Youngbin Im
+  - Sangtae Ha
+  - Richard Han
+  - Eric Keller
+  publisher: arXiv preprint arXiv:1707.07780
+  date: '2017-07-25'
+  link: https://doi.org/10.48550/arXiv.1707.07780
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICDCS.2017.195
+  title: 'FLARE: Coordinated Rate Adaptation for HTTP Adaptive Streaming in Cellular
+    Networks'
+  authors:
+  - Youngbin Im
+  - Jinyoung Han
+  - Ji Hoon Lee
+  - Yoon Kwon
+  - Carlee Joe-Wong
+  - Taekyoung Kwon
+  - Sangtae Ha
+  publisher: 2017 IEEE 37th International Conference on Distributed Computing Systems
+    (ICDCS)
+  date: '2017-06-05'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:d1gkVwhDpl0C
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:US9398337B2
+  title: Method and apparatus for assigning video bitrate in mobile communication
+    system
+  authors:
+  - Hyungho Lee
+  - Taekyoung Kwon
+  - Jicheol Lee
+  - Youngbin Im
+  - Hanna Lim
+  - Taejoong Chung
+  - Dookyoon Han
+  publisher: United States Patent US9398337 B2
+  date: '2016-07-19'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:WF5omc3nYNoC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.comnet.2018.01.019
+  title: A Practical Evaluation of Rate Adaptation Algorithms in HTTP-based Adaptive
+    Streaming
+  authors:
+  - Ibrahim Ayad
+  - Youngbin Im
+  - Eric Keller
+  - Sangtae Ha
+  publisher: Elsevier Computer Networks
+  date: '2018-03-14'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:ufrVoPGSRksC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/CISS.2018.8362281
+  title: 'SNN-Cache: A Practical Machine Learning-based Caching System Utilizing the
+    Inter-relationships of Requests'
+  authors:
+  - Youngbin Im
+  - Prasanth Prahladan
+  - Tae Hwan Kim
+  - Yong Geun Hong
+  - Sangtae Ha
+  publisher: 2018 52nd Annual Conference on Information Sciences and Systems (CISS)
+  date: '2018-03-21'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:_FxGoFyzp5QC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.compag.2019.02.004
+  title: 'Development of an EPIC Parallel Computing Framework to Facilitate Regional/Global
+    Gridded Crop Modeling with Multiple Scenarios: A Case Study of the United States'
+  authors:
+  - Won Seok Jang
+  - Yonggwan Lee
+  - JJason C Neff
+  - Youngbin Im
+  - Sangtae Ha
+  - Luca Doro
+  publisher: Computers and Electronics in Agriculture
+  date: '2019-03-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:roLk4NBRz8UC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3302424.3303961
+  title: 'I Sent It: Where Does Slow Data Go to Wait?'
+  authors:
+  - Youngbin Im
+  - Parisa Rahimzadeh
+  - Brett Shouse
+  - Shinik Park
+  - Carlee Joe-Wong
+  - Kyunghan Lee
+  - Sangtae Ha
+  publisher: The Fourteenth EuroSys Conference 2019
+  date: '2019-03-25'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UebtZRa9Y70C
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LCOMM.2019.2898664
+  title: Modeling MPTCP performance
+  authors:
+  - Jinsung Lee
+  - Youngbin Im
+  - Jeongkeun Lee
+  publisher: IEEE communications letters
+  date: '2019-02-10'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Se3iqnhoufwC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3307334.3326086
+  title: 'CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions'
+  authors:
+  - Jihoon Lee
+  - Jinsung Lee
+  - Youngbin Im
+  - Sandesh Dhawaskar Sathyanarayana
+  - Parisa Rahimzadeh
+  - Xiaoxi Zhang
+  - Max Hollingworth
+  - Carlee Joe-Wong
+  - Dirk Grunwald
+  - Sangtae Ha
+  publisher: The 17th Annual International Conference on Mobile Systems, Applications,
+    and Services (ACM MobiSys 2019)
+  date: '2019-06-12'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:8k81kl-MbHgC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3307334.3328576
+  title: 'CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions
+    (demo)'
+  authors:
+  - Sandesh Dhawaskar Sathyanarayana
+  - Jihoon Lee
+  - Jinsung Lee
+  - Youngbin Im
+  - Parisa Rahimzadeh
+  - Xiaoxi Zhang
+  - Max Hollingworth
+  - Carlee Joe-Wong
+  - Dirk Grunwald
+  - Sangtae Ha
+  publisher: The 17th Annual International Conference on Mobile Systems, Applications,
+    and Services (ACM MobiSys 2019)
+  date: '2019-06-12'
+  link: https://dl.acm.org/doi/abs/10.1145/3307334.3328576
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3307334.3326082
+  title: 'This is Your President Speaking: Spoofing Alerts in 4G LTE Networks'
+  authors:
+  - Gyuhong Lee
+  - Jihoon Lee
+  - Jinsung Lee
+  - Youngbin Im
+  - Max Hollingsworth
+  - Eric Wustrow
+  - Dirk Grunwald
+  - Sangtae Ha
+  publisher: The 17th Annual International Conference on Mobile Systems, Applications,
+    and Services (ACM MobiSys 2019)
+  date: '2019-06-12'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:5nxA0vEk-isC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3307334.3328572
+  title: 'DEMO-This is Your President Speaking: Spoofing Alerts in 4G LTE Networks'
+  authors:
+  - Max Hollingsworth
+  - Gyuhong Lee
+  - Jeongkeun Lee
+  - Jeongkeun Lee
+  - Youngbin Im
+  - Eric Wustrow
+  - Dirk Grunwald
+  - Sangtae Ha
+  publisher: The 17th Annual International Conference on Mobile Systems, Applications,
+    and Services (ACM MobiSys 2019)
+  date: '2019-06-12'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:4DMP91E08xMC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICDCS.2019.00010
+  title: 'ECHO: Efficiently Overbooking Applications to Create a Highly Available
+    Cloud'
+  authors:
+  - Parisa Rahimzadeh
+  - Youngbin Im
+  - Gueyoung Jung
+  - Carlee Joe-Wong
+  - Sangtae Ha
+  publisher: 2019 IEEE 39th International Conference on Distributed Computing Systems
+    (ICDCS)
+  date: '2019-07-07'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Zph67rFs4hoC
+  plugin: sources.py
+  file: sources.yaml
+- id: do:ISCA(2019)
+  title: Optimal Learning-Based Network Protocol Selection
+  authors:
+  - Xiaoxi Zhang
+  - Siqi Chen
+  - Youngbin Im
+  - Maria Gorlotova
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: IEEE/ACM ISCA Workshop on Machine Learning for Systems 2019
+  date: '2019-06-23'
+  link: https://mlforsystems.org/assets/papers/isca2019/MLforSystems2019_Xiaoxi_Zhang.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICNP.2019.8888100
+  title: 'Towards Automated Network Management: Learning the Optimal Protocol Selction'
+  authors:
+  - Xiaoxi Zhang
+  - Siqi Chen
+  - Youngbin Im
+  - Maria Gorlotova
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: 2019 IEEE 27th International Conference on Network Protocols (ICNP)
+  date: '2019-10-08'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:kNdYIx-mwKoC
+  plugin: sources.py
+  file: sources.yaml
+- id: issn:1029-7006/140487542
+  title: Integrated Large-Scale Modeling Framework for N2O Emissions Estimation in
+    an Agricultural Field using Parallel Computing.
+  authors:
+  - Won Seok Jang
+  - Jason Neff
+  - Youngbin Im
+  - Jongyoon Park
+  - Jeffery Herrick
+  publisher: Geophysical Research Abstracts 21, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:YOwf2qJgpHMC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICDCS47774.2020.00090
+  title: 'FluidMem: Full Flexible and Fast Memory Disaggregation for the Cloud'
+  authors:
+  - Blake Caldwell
+  - Sepideh Goodarzy
+  - Sangtae Ha
+  - Richard Han
+  - Eric Keller
+  - Eric Rozner
+  - Youngbin Im
+  publisher: 2020 IEEE 40th International Conference on Distributed Computing Systems
+    (ICDCS)
+  date: '2020-11-29'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:_kc_bZDykSQC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICDCS47774.2020.00112
+  title: 'SPARCLE: Streaming Processing Applications over Dispersed Computing Networks'
+  authors:
+  - Parisa Rahimzadeh
+  - Jeongkeun Lee
+  - Youngbin Im
+  - Siun-Chuon Mau
+  - Eric C Lee
+  - Bradford O Smith
+  - Fatemah Al-Duoli
+  - Carlee Joe-Wong
+  - Sangtae Ha
+  publisher: 2020 IEEE 40th International Conference on Distributed Computing Systems
+    (ICDCS)
+  date: '2020-11-29'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qxL8FJ1GzNc
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:US10631030B2
+  title: Method for providing video streaming service and mobile device for same
+  authors:
+  - Hyung-Ho Lee
+  - Taekyoung Kwon
+  - Han-Na Lim
+  - Dookyoon Han
+  - Ji-Cheol Lee
+  - Youngbin Im
+  - Taejoong Chung
+  publisher: (United States Patent US10631030 B2)
+  date: '2020-04-21'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:eQOLeE2rZwMC
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:US10560389B2
+  title: Method and apparatus for controlling send buffer of transmission control
+    protocol in communication system
+  authors:
+  - Jin-Sung Lee
+  - Young-Bin Im
+  - Sangtae Ha
+  - Sang-Jun Moon
+  - Jung-Shin Park
+  - Ji-Cheol Lee
+  - Joo-hyung Lee
+  publisher: (United States Patent US10560389 B2)
+  date: '2020-02-11'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:IjCSPb-OGe4C
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1029/2020EF001641
+  title: The Hidden Costs of Land Degradation in U.S. Maize Agriculture
+  authors:
+  - Won Seok Jang
+  - Jason Neff
+  - Youngbin Im
+  - Luca Doro
+  - JE Herrick
+  publisher: Earth's Future
+  date: '2021-02-12'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:aqlVkmm33-oC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM42981.2021.9488762
+  title: 'ECLAT: An ECN marking system for latency guarantee in cellular networks'
+  authors:
+  - Junseon Kim
+  - Youngbin Im
+  - Kyunghan Lee
+  publisher: IEEE INFOCOM 2021-IEEE Conference on Computer Communications
+  date: '2021-05-10'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Wp0gIr-vW9MC
+  plugin: sources.py
+  file: sources.yaml
+- id: do:KICS2021S01
+  title: Network latency analysis using eBPF
+  authors:
+  - Shaikhitdin Nezametdinov
+  - Youngbin Im
+  publisher: KICS Summer Conference 2021
+  date: '2022-06-16'
+  link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10586969&googleIPSandBox=false&mark=0&ipRange=false&b2cLoginYN=false&aiChatView=A&readTime=5-10&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3481042
+  title: Securing the Wireless Emergency Alerts System
+  authors:
+  - Jihoon Lee
+  - Gyuhong Lee
+  - Jinsung Lee
+  - Youngbin Im
+  - Max Hollingsworth
+  - Eric Wustrow
+  - Dirk Grunwald
+  - Sangtae Ha
+  publisher: Communications of the ACM 2021
+  date: '2021-09-22'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9ZlFYXVOiuMC
+  plugin: sources.py
+  file: sources.yaml
+- id: do:KICS2021F01
+  title: An analysis of the DPDK performance on SmartNICs using eBPF
+  authors:
+  - Bongwon Lee
+  - Youngbin Im
+  publisher: KICS Fall Conference 2021
+  date: '2021-09-22'
+  link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11022696
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSAC.2022.3229425
+  title: 'Modems: Optimizing edge computing migrations for user mobility'
+  authors:
+  - Taejin Kim
+  - Sandesh Dhawaskar Sathyanarayana
+  - Siqi Chen
+  - Youngbin Im
+  - Xiaoxi Zhang
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2022-12-21'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tmc.2022.3162880
+  title: Optimal Network Protocol Selection for Competing Flows via Online Learning
+  authors:
+  - Xiaoxi Zhang
+  - Siqi Chen
+  - Yunfan Zhang
+  - Youngbin Im
+  - Maria Gorlotova
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: IEEE Transactions on Mobile Computing (TMC) 2022
+  date: '2022-04-11'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:dhFuZR0502QC
+  plugin: sources.py
+  file: sources.yaml
+- id: do:INFOCOM2012Demo
+  title: 'Demo: Pricing by Timing for Mobile Data'
+  authors:
+  - Sangtae Ha
+  - Soumya Sen
+  - Carlee Joe-Wong
+  - J Mifkovich
+  - R Rill
+  - Youngbin Im
+  - D Butnariu
+  - J Bawa
+  - M. Chiang
+  publisher: IEEE INFOCOM 2012-IEEE Conference on Computer Communications
+  date: '2012-03-25'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UeHWp8X0CEIC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOM48880.2022.9796680
+  title: 'Modems: Optimizing edge computing migrations for user mobility'
+  authors:
+  - Taejin Kim
+  - Sandesh Dhawaskar Sathyanarayana
+  - Siqi Chen
+  - Youngbin Im
+  - Xiaoxi Zhang
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: IEEE INFOCOM 2022
+  date: '2022-03-02'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IWQOS52092.2021.9521352
+  title: 'Modems: Optimizing edge computing migrations for user mobility   '
+  authors:
+  - Taejin Kim
+  - Siqi Chen
+  - Youngbin Im
+  - Xiaoxi Zhang
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: IEEE/ACM IWQOS 2021
+  date: '2021-06-25'
+  link: https://ieeexplore.ieee.org/abstract/document/9796680/
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:1027246120000
+  title: "\uC2A4\uB9C8\uD2B8 \uB124\uD2B8\uC6CC\uD06C \uC778\uD130\uD398\uC774\uC2A4\
+    \ \uCE74\uB4DC\uC758 \uC624\uD504\uB85C\uB529\uC744 \uD1B5\uD55C \uD0A4 \uBC38\
+    \uB958 \uC2A4\uD1A0\uC5B4 \uC131\uB2A5 \uD5A5\uC0C1 \uBC29\uBC95 \uBC0F \uC7A5\
+    \uCE58 (METHOD AND APPARATUS FOR IMPROVING KEY VALUE STORE PERFORMANCE THROUGH\
+    \ OFFLOADING OF SMART NETWORK INTERFAC) "
+  authors:
+  - "\uC784\uC601\uBE48 (Youngbin Im)"
+  - "\uAE40\uB3D9\uC6B0 (Dongu Kim)"
+  publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
+  date: '2024-10-28'
+  link: http://www.kipris.or.kr/khome/main.jsp
+  plugin: sources.py
+  file: sources.yaml
