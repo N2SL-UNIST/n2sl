@@ -551,7 +551,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UeHWp8X0CEIC
 
 - id: doi:10.1109/INFOCOM48880.2022.9796680
-  title: 'Modems: Optimizing edge computing migrations for user mobility '
+  title: 'Modems: Optimizing edge computing migrations for user mobility'
   authors:
   - Taejin Kim
   - Sandesh Dhawaskar Sathyanarayana
@@ -582,6 +582,6 @@
   authors:
   - 임영빈 (Youngbin Im)
   - 김동우 (Dongu Kim)
-  publisher: '특허청(KOREAN INTELLECTUAL PROPERTY OFFICE)'
+  publisher: '특허청 (KOREAN INTELLECTUAL PROPERTY OFFICE)'
   date: '2024-10-28'
-  link: 
+  link: http://www.kipris.or.kr/khome/main.jsp
