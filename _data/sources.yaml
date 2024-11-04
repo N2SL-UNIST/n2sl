@@ -576,3 +576,14 @@
   publisher: IEEE/ACM IWQOS 2021
   date: '2021-06-25'
   link: https://ieeexplore.ieee.org/abstract/document/9796680/
+
+- id: Patent No(date):10-2724612(20241028)
+  title:  |
+    '스마트 네트워크 인터페이스 카드의 오프로딩을 통한 키 밸류 스토어 성능 향상 방법 및 장치'
+    '(METHOD AND APPARATUS FOR IMPROVING KEY VALUE STORE PERFORMANCE THROUGH OFFLOADING OF SMART NETWORK INTERFAC)'
+  Inventor:
+  - 임영빈 (Youngbin Im)
+  - 김동우 (Dongu Kim)
+  publisher: 특허청(KOREAN INTELLECTUAL PROPERTY OFFICE)
+  date: '2024-10-28'
+  link: 

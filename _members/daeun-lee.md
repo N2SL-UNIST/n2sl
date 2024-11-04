@@ -10,6 +10,6 @@ links:
   github: DaEun2Lee
 --- 
 
-Daeun Lee received the B.S. degree from the Department of Computer Engineering, Chungbuk National University (CBNU), South Korea, in 2023. She is currently pursuing the combined M.S./Ph.D. degree with the Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST). Her research interests include networking technologies, cloud computing,sensing and data analytics.
+Daeun Lee received the B.S. degree from the Department of Computer Engineering, Chungbuk National University (CBNU), South Korea, in 2023. She is currently pursuing the combined M.S./Ph.D. degree with the Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST). Her research interests include networking technologies, cloud computing, sensing and data analytics.
 
 Last updated: 2024
