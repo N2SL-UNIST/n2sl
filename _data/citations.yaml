@@ -608,7 +608,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/INFOCOM48880.2022.9796680
-  title: 'Modems: Optimizing edge computing migrations for user mobility '
+  title: 'Modems: Optimizing edge computing migrations for user mobility'
   authors:
   - Taejin Kim
   - Sandesh Dhawaskar Sathyanarayana
@@ -634,5 +634,19 @@
   publisher: IEEE/ACM IWQOS 2021
   date: '2021-06-25'
   link: https://ieeexplore.ieee.org/abstract/document/9796680/
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:1027246120000
+  title: "\uC2A4\uB9C8\uD2B8 \uB124\uD2B8\uC6CC\uD06C \uC778\uD130\uD398\uC774\uC2A4\
+    \ \uCE74\uB4DC\uC758 \uC624\uD504\uB85C\uB529\uC744 \uD1B5\uD55C \uD0A4 \uBC38\
+    \uB958 \uC2A4\uD1A0\uC5B4 \uC131\uB2A5 \uD5A5\uC0C1 \uBC29\uBC95 \uBC0F \uC7A5\
+    \uCE58 (METHOD AND APPARATUS FOR IMPROVING KEY VALUE STORE PERFORMANCE THROUGH\
+    \ OFFLOADING OF SMART NETWORK INTERFAC)"
+  authors:
+  - "\uC784\uC601\uBE48 (Youngbin Im)"
+  - "\uAE40\uB3D9\uC6B0 (Dongu Kim)"
+  publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
+  date: '2024-10-28'
+  link: http://www.kipris.or.kr/khome/main.jsp
   plugin: sources.py
   file: sources.yaml
