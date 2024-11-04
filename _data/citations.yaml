@@ -636,7 +636,7 @@
   link: https://ieeexplore.ieee.org/abstract/document/9796680/
   plugin: sources.py
   file: sources.yaml
-- id: do:Patent_No(date):10-2724612(20241028)
+- id: patent:10-2724612(20241028)
   title: "\uC2A4\uB9C8\uD2B8 \uB124\uD2B8\uC6CC\uD06C \uC778\uD130\uD398\uC774\uC2A4\
     \ \uCE74\uB4DC\uC758 \uC624\uD504\uB85C\uB529\uC744 \uD1B5\uD55C \uD0A4 \uBC38\
     \uB958 \uC2A4\uD1A0\uC5B4 \uC131\uB2A5 \uD5A5\uC0C1 \uBC29\uBC95 \uBC0F \uC7A5\
