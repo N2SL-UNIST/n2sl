@@ -1,7 +1,7 @@
 ---
 name: Seyeong Park
 image: images/People/seyeong-park.jpg
-role: current-undergrad
+role: current-phd&ms 
 aliases:
   - S. Park
 links:
