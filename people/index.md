@@ -23,6 +23,7 @@ nav:
 {% include list.html  data="members"  component="portrait"  filters="name: Hyunsu Kim" %}
 {% include list.html  data="members"  component="portrait"  filters="name: Yeon An" %}
 {% include list.html  data="members"  component="portrait"  filters="name: Seyeong Park" %}
+{% include list.html  data="members"  component="portrait"  filters="name: Yunseo Jeong" %}
 
 <!--
 {% include list.html  data="members"  component="portrait"  filters="role: current" %}
