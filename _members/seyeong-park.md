@@ -8,7 +8,6 @@ links:
   email: rikaika@unist.ac.kr
 ---
 
-Seyeong Park is currently pursuing the B.S. degree with Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST). His research interests include edge computing and resource scheduling.
+Seyeong Park received the B.S. degree from the Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST), South Korea, in 2025. He is currently pursuing the combined M.S./Ph.D. degree with the Department of Computer Science and Engineering, Ulsan National Institute of Science and Technology (UNIST). His research interests include edge computing and SmartNIC offloaded network functions.
 
-
-Last updated: 2024
+Last updated: 2025
