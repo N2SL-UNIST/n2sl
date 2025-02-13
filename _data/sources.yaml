@@ -501,7 +501,7 @@
   - Maria Gorlotova
   - Sangtae Ha
   - Carlee Joe-Wong
-  image: images\publications\paper_2023_tmc.2022.3162880.jpg
+  image: images/publications/paper_2023_tmc.2022.3162880.jpg
   publisher: IEEE Transactions on Mobile Computing (TMC) 2022
   date: '2022-04-11'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:dhFuZR0502QC
@@ -512,7 +512,7 @@
   - Junseon Kim
   - Youngbin Im
   - Kyunghan Lee
-  image: images\publications\paper_2023_TNET.2023.3268721.jpg
+  image: images/publications/paper_2023_TNET.2023.3268721.jpg
   publisher: IEEE/ACM Transactions on Networking (ToN) 2023
   date: '2023-06-16'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:L8Ckcad2t8MC
@@ -532,7 +532,7 @@
   - Dirk Grunwald
   - Kyunghan Lee
   - Sangtae Ha
-  image: images\publications\paper_2023_TMC.2023.3274708.jpg
+  image: images/publications/paper_2023_TMC.2023.3274708.jpg
   publisher: IEEE Transactions on Mobile Computing (TMC) 2023
   date: '2023-05-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:7PzlFSSx8tAC
@@ -568,7 +568,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
 
 - id: doi:10.1109/IWQOS52092.2021.9521352
-  title: 'Modems: Optimizing edge computing migrations for user mobility   '
+  title: 'Modems: Optimizing edge computing migrations for user mobility'
   authors:
   - Taejin Kim
   - Siqi Chen
