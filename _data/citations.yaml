@@ -513,6 +513,7 @@
   publisher: Earth's Future
   date: '2021-02-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:aqlVkmm33-oC
+  image: images/publications/paper_2021_2020EF001641.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/INFOCOM42981.2021.9488762
@@ -524,6 +525,7 @@
   publisher: IEEE INFOCOM 2021-IEEE Conference on Computer Communications
   date: '2021-05-10'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Wp0gIr-vW9MC
+  image: images/publications/patent_2024_1027246120000.jpg
   plugin: sources.py
   file: sources.yaml
 - id: do:KICS2021S01
@@ -534,6 +536,7 @@
   publisher: KICS Summer Conference 2021
   date: '2022-06-16'
   link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10586969&googleIPSandBox=false&mark=0&ipRange=false&b2cLoginYN=false&aiChatView=A&readTime=5-10&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true
+  image: images/publications/paper_2022_KICS2021S01.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3481042
@@ -550,6 +553,7 @@
   publisher: Communications of the ACM 2021
   date: '2021-09-22'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9ZlFYXVOiuMC
+  image: images/publications/paper_2021_3481042.jpg
   plugin: sources.py
   file: sources.yaml
 - id: do:KICS2021F01
@@ -560,6 +564,7 @@
   publisher: KICS Fall Conference 2021
   date: '2021-09-22'
   link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11022696
+  image: images/publications/paper_2021_KICS2021F01.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSAC.2022.3229425
@@ -575,6 +580,7 @@
   publisher: IEEE Journal on Selected Areas in Communications
   date: '2022-12-21'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
+  image: images/publications/paper_2022_JSAC.2022.3229425.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/tmc.2022.3162880
