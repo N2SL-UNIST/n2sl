@@ -590,7 +590,7 @@
   publisher: IEEE Transactions on Mobile Computing (TMC) 2022
   date: '2022-04-11'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:dhFuZR0502QC
-  image: images/publications/paper_2023_tmc.2022.3162880.jpg
+  image: images/publications/paper_2022_tmc.2022.3162880.jpg
   plugin: sources.py
   file: sources.yaml
 - id: do:INFOCOM2012Demo
