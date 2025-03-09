@@ -22,6 +22,7 @@
   orcid: 0000-0003-3756-5956
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/paper_2023_TMC.2023.3274708.jpg
 - id: doi:10.1109/TNET.2023.3268721
   title: Enabling Delay-Guaranteed Congestion Control with One-Bit Feedback in Cellular
     Networks
@@ -35,6 +36,7 @@
   orcid: 0000-0003-3756-5956
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/paper_2023_TNET.2023.3268721.jpg
 - id: doi:10.1109/TMC.2022.3162880
   title: Optimal Network Protocol Selection for Competing Flows via Online Learning
   authors:
@@ -63,6 +65,7 @@
   publisher: International Conferences on Future Internet Technologies (CFI) 2008
   date: '2008-06-18'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u5HHmVD_uO8C
+  image: images/publications/paper_2008_CFI(2008)061801.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/SAHCNW.2009.5172936
@@ -76,6 +79,7 @@
   publisher: IEEE Workshop on Wireless Mesh Networks (WiMesh) 2009
   date: '2009-06-22'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:YsMSGLbcyi4C
+  image: images/publications/paper_2009_SAHCNW.2009.5172936.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/1853079.1853083
@@ -91,6 +95,7 @@
   publisher: International Conference on Future Internet Technologies (CFI) 2010
   date: '2010-06-16'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qjMakFHDy7sC
+  image: images/publications/paper_2010_1853079.1853083.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/2342356.2342402
@@ -104,6 +109,7 @@
   publisher: ACM SIGCOMM 2012
   date: '2012-08-13'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:W7OEmFMy1HYC
+  image: images/publications/paper_2012_2342356.2342402.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/2505469.2505473
@@ -120,6 +126,7 @@
     Evaluation and Characterization(WiNTECH)
   date: '2013-09-30'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u-x6o8ySG0sC
+  image: images/publications/paper_2013_2505469.2505473.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/INFCOM.2013.6566810
@@ -133,8 +140,9 @@
   - Ted "Taekyoung" Kwon
   - Mung Chiang
   publisher: IEEE INFOCOM 2013
-  date: '2013-04-15'
-  link: https://www.infona.pl/resource/bwmeta1.element.ieee-art-000006566810
+  date: '2013-04-14'
+  link: https://ieeexplore.ieee.org/document/6566810
+  image: images/publications/paper_2013_INFCOM.2013.6566810.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMC.2015.2456881
@@ -150,6 +158,7 @@
   publisher: IEEE Transactions on Mobile Computing(TMC)
   date: '2016-05-01'
   link: https://dl.acm.org/doi/abs/10.1109/TMC.2015.2456881
+  image: images/publications/paper_2015_TMC.2015.2456881.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICDCS.2016.103
@@ -163,6 +172,7 @@
     (ICDCS)
   date: '2016-06-27'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9yKSN-GCB0IC
+  image: images/publications/paper_2016_ICDCS.2016.103.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3131672.3131695
@@ -175,6 +185,7 @@
   publisher: ACM Conference on Embedded Network Sensor Systems Sensys 2017
   date: '2017-11-16'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:zYLM7Y9cAGgC
+  image: images/publications/paper_2017_3131672.3131695.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/INFOCOM.2017.8057140
@@ -189,6 +200,7 @@
   publisher: IEEE INFOCOM 2017-IEEE Conference on Computer Communications
   date: '2017-05-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Y0pCki6q_DkC
+  image: images/publications/paper_2017_INFOCOM.2017.8057140.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.1707.07780
@@ -202,6 +214,7 @@
   publisher: arXiv preprint arXiv:1707.07780
   date: '2017-07-25'
   link: https://doi.org/10.48550/arXiv.1707.07780
+  image: images/publications/paper_2017_arXiv.1707.07780.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICDCS.2017.195
@@ -219,6 +232,7 @@
     (ICDCS)
   date: '2017-06-05'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:d1gkVwhDpl0C
+  image: images/publications/paper_2017_ICDCS.2017.195.jpg
   plugin: sources.py
   file: sources.yaml
 - id: patent:US9398337B2
@@ -235,6 +249,7 @@
   publisher: United States Patent US9398337 B2
   date: '2016-07-19'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:WF5omc3nYNoC
+  image: images/publications/patent_2016_US9398337B2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.comnet.2018.01.019
@@ -248,6 +263,7 @@
   publisher: Elsevier Computer Networks
   date: '2018-03-14'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:ufrVoPGSRksC
+  image: images/publications/paper_2018_j.comnet.2018.01.019.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CISS.2018.8362281
@@ -262,6 +278,7 @@
   publisher: 2018 52nd Annual Conference on Information Sciences and Systems (CISS)
   date: '2018-03-21'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:_FxGoFyzp5QC
+  image: images/publications/paper_2018_CISS.2018.8362281.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.compag.2019.02.004
@@ -277,6 +294,7 @@
   publisher: Computers and Electronics in Agriculture
   date: '2019-03-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:roLk4NBRz8UC
+  image: images/publications/paper_2018_j.compag.2019.02.004.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3302424.3303961
@@ -292,6 +310,7 @@
   publisher: The Fourteenth EuroSys Conference 2019
   date: '2019-03-25'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UebtZRa9Y70C
+  image: images/publications/paper_2019_3302424.3303961.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LCOMM.2019.2898664
@@ -303,6 +322,7 @@
   publisher: IEEE communications letters
   date: '2019-02-10'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Se3iqnhoufwC
+  image: images/publications/paper_2019_LCOMM.2019.2898664.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3307334.3326086
@@ -322,6 +342,7 @@
     and Services (ACM MobiSys 2019)
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:8k81kl-MbHgC
+  image: images/publications/paper_2019_3307334.3326086.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3307334.3328576
@@ -342,6 +363,7 @@
     and Services (ACM MobiSys 2019)
   date: '2019-06-12'
   link: https://dl.acm.org/doi/abs/10.1145/3307334.3328576
+  image: images/publications/paper_2019_3307334.3328576.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3307334.3326082
@@ -359,6 +381,7 @@
     and Services (ACM MobiSys 2019)
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:5nxA0vEk-isC
+  image: images/publications/paper_2019_3307334.3326082.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3307334.3328572
@@ -376,6 +399,7 @@
     and Services (ACM MobiSys 2019)
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:4DMP91E08xMC
+  image: images/publications/paper_2019_3307334.3328572.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICDCS.2019.00010
@@ -391,6 +415,7 @@
     (ICDCS)
   date: '2019-07-07'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Zph67rFs4hoC
+  image: images/publications/paper_2019_ICDCS.2019.00010.jpg
   plugin: sources.py
   file: sources.yaml
 - id: do:ISCA(2019)
@@ -405,6 +430,7 @@
   publisher: IEEE/ACM ISCA Workshop on Machine Learning for Systems 2019
   date: '2019-06-23'
   link: https://mlforsystems.org/assets/papers/isca2019/MLforSystems2019_Xiaoxi_Zhang.pdf
+  image: images/publications/paper_2019_ISCA(2019).jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICNP.2019.8888100
@@ -419,6 +445,7 @@
   publisher: 2019 IEEE 27th International Conference on Network Protocols (ICNP)
   date: '2019-10-08'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:kNdYIx-mwKoC
+  image: images/publications/paper_2019_ICNP.2019.8888100.jpg
   plugin: sources.py
   file: sources.yaml
 - id: issn:1029-7006/140487542
@@ -449,6 +476,7 @@
     (ICDCS)
   date: '2020-11-29'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:_kc_bZDykSQC
+  image: images/publications/paper_2020_ICDCS47774.2020.00090.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICDCS47774.2020.00112
@@ -466,7 +494,8 @@
   publisher: 2020 IEEE 40th International Conference on Distributed Computing Systems
     (ICDCS)
   date: '2020-11-29'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qxL8FJ1GzNc
+  link: https://ieeexplore.ieee.org/document/9355682
+  image: images/publications/paper_2020_ICDCS47774.2020.00112.jpg
   plugin: sources.py
   file: sources.yaml
 - id: patent:US10631030B2
@@ -482,6 +511,7 @@
   publisher: (United States Patent US10631030 B2)
   date: '2020-04-21'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:eQOLeE2rZwMC
+  image: images/publications/patent_2020_US10631030B2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: patent:US10560389B2
@@ -498,6 +528,7 @@
   publisher: (United States Patent US10560389 B2)
   date: '2020-02-11'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:IjCSPb-OGe4C
+  image: images/publications/patent_2020_US10560389B2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1029/2020EF001641
@@ -511,6 +542,7 @@
   publisher: Earth's Future
   date: '2021-02-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:aqlVkmm33-oC
+  image: images/publications/paper_2021_2020EF001641.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/INFOCOM42981.2021.9488762
@@ -522,6 +554,7 @@
   publisher: IEEE INFOCOM 2021-IEEE Conference on Computer Communications
   date: '2021-05-10'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Wp0gIr-vW9MC
+  image: images/publications/paper_2021_INFOCOM42981.2021.9488762.jpg
   plugin: sources.py
   file: sources.yaml
 - id: do:KICS2021S01
@@ -532,6 +565,7 @@
   publisher: KICS Summer Conference 2021
   date: '2022-06-16'
   link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10586969&googleIPSandBox=false&mark=0&ipRange=false&b2cLoginYN=false&aiChatView=A&readTime=5-10&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true
+  image: images/publications/paper_2022_KICS2021S01.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3481042
@@ -548,6 +582,7 @@
   publisher: Communications of the ACM 2021
   date: '2021-09-22'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9ZlFYXVOiuMC
+  image: images/publications/paper_2021_3481042.jpg
   plugin: sources.py
   file: sources.yaml
 - id: do:KICS2021F01
@@ -558,6 +593,7 @@
   publisher: KICS Fall Conference 2021
   date: '2021-09-22'
   link: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11022696
+  image: images/publications/paper_2021_KICS2021F01.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSAC.2022.3229425
@@ -573,6 +609,7 @@
   publisher: IEEE Journal on Selected Areas in Communications
   date: '2022-12-21'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
+  image: images/publications/paper_2022_JSAC.2022.3229425.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/tmc.2022.3162880
@@ -588,6 +625,7 @@
   publisher: IEEE Transactions on Mobile Computing (TMC) 2022
   date: '2022-04-11'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:dhFuZR0502QC
+  image: images/publications/paper_2022_tmc.2022.3162880.jpg
   plugin: sources.py
   file: sources.yaml
 - id: do:INFOCOM2012Demo
@@ -605,6 +643,7 @@
   publisher: IEEE INFOCOM 2012-IEEE Conference on Computer Communications
   date: '2012-03-25'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UeHWp8X0CEIC
+  image: images/publications/paper_2012_INFOCOM2012Demo.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/INFOCOM48880.2022.9796680
@@ -618,12 +657,13 @@
   - Sangtae Ha
   - Carlee Joe-Wong
   publisher: IEEE INFOCOM 2022
-  date: '2022-03-02'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
+  date: '2022-05-02'
+  link: https://ieeexplore.ieee.org/document/9796680
+  image: images/publications/paper_2022_INFOCOM48880.2022.9796680.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/IWQOS52092.2021.9521352
-  title: 'Modems: Optimizing edge computing migrations for user mobility   '
+  title: 'Modems: Optimizing edge computing migrations for user mobility'
   authors:
   - Taejin Kim
   - Siqi Chen
@@ -633,7 +673,8 @@
   - Carlee Joe-Wong
   publisher: IEEE/ACM IWQOS 2021
   date: '2021-06-25'
-  link: https://ieeexplore.ieee.org/abstract/document/9796680/
+  link: https://ieeexplore.ieee.org/document/9521352
+  image: images/publications/paper_2021_IWQOS52092.2021.9521352.jpg
   plugin: sources.py
   file: sources.yaml
 - id: patent:1027246120000
@@ -648,5 +689,6 @@
   publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
   date: '2024-10-28'
   link: http://www.kipris.or.kr/khome/main.jsp
+  image: images/publications/patent_2024_1027246120000.jpg
   plugin: sources.py
   file: sources.yaml

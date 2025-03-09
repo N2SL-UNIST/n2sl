@@ -19,6 +19,7 @@ I received my B.S. and Ph.D. degrees in Computer Science and Engineering from Se
 
 ## Courses
 * CSE 251: System Programming
+* CSE 311: Operating Systems
 * CSE 331: Introduction to Algorithms
 * CSE 351: Computer Networks
 * CSE 465: Mobile Computing
