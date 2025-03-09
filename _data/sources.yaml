@@ -7,6 +7,7 @@
   - Youngbin Im
   - Taekyoung Kwon
   - Yanghee Choi
+  image: images/publications/paper_2008_CFI(2008)061801.jpg
   publisher: International Conferences on Future Internet Technologies (CFI) 2008
   date: '2008-06-18'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u5HHmVD_uO8C
@@ -19,6 +20,7 @@
   - Jinyoung Han
   - Sung-Ju Lee
   - Taekyoung Kwon
+  image: images/publications/paper_2009_SAHCNW.2009.5172936.jpg
   publisher: "IEEE Workshop on Wireless Mesh Networks (WiMesh) 2009"
   date: '2009-06-22'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:YsMSGLbcyi4C
@@ -32,6 +34,7 @@
   - Wonjun Yoo
   - Ted "Taekyoung" Kwon
   - Yanghee Choi
+  image: images/publications/paper_2010_1853079.1853083.jpg
   publisher: 'International Conference on Future Internet Technologies (CFI) 2010'
   date: '2010-06-16'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qjMakFHDy7sC
@@ -44,6 +47,7 @@
   - Carlee Joe-Wong
   - Youngbin Im
   - Mung Chiang
+  image: images/publications/paper_2012_2342356.2342402.jpg
   publisher: "ACM SIGCOMM 2012"
   date: '2012-08-13'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:W7OEmFMy1HYC
@@ -57,6 +61,7 @@
   - Myungchul Kwak
   - Ted "Taekyoung" Kwon
   - Yanghee Choi
+  image: images/publications/paper_2013_2505469.2505473.jpg
   publisher: "ACM International Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization(WiNTECH)"
   date: '2013-09-30'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:u-x6o8ySG0sC
@@ -70,9 +75,10 @@
   - Soumya Sen
   - Ted "Taekyoung" Kwon
   - Mung Chiang
+  image: images/publications/paper_2013_INFCOM.2013.6566810.jpg
   publisher: IEEE INFOCOM 2013
-  date: '2013-04-15'
-  link: https://www.infona.pl/resource/bwmeta1.element.ieee-art-000006566810
+  date: '2013-04-14'
+  link: https://ieeexplore.ieee.org/document/6566810
 
 - id: doi:10.1109/TMC.2015.2456881
   title: 'AMUSE: Empowering Users for Cost-Aware Offloading with Throughput-Delay Tradeoffs'
@@ -83,6 +89,7 @@
   - Soumya Sen
   - Ted "Taekyoung" Kwon
   - Mung Chiang
+  image: images/publications/paper_2015_TMC.2015.2456881.jpg
   publisher: IEEE Transactions on Mobile Computing(TMC)
   date: '2015-07-15'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:2osOgNQ5qMEC
@@ -96,6 +103,7 @@
   - Soumya Sen
   - Ted "Taekyoung" Kwon
   - Mung Chiang
+  image: images/publications/paper_2015_TMC.2015.2456881.jpg
   publisher: IEEE Transactions on Mobile Computing(TMC)
   date: '2016-05-01'
   link: https://dl.acm.org/doi/abs/10.1109/TMC.2015.2456881
@@ -107,6 +115,7 @@
   - Youngbin Im
   - Kyuyong Shin
   - Sangtae Ha
+  image: images/publications/paper_2016_ICDCS.2016.103.jpg
   publisher: "2016 IEEE 36th International Conference on Distributed Computing Systems (ICDCS)"
   date: '2016-06-27'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:9yKSN-GCB0IC
@@ -118,6 +127,7 @@
   - Youngbin Im
   - Shivakant Mishra
   - Sangtae Ha
+  image: images/publications/paper_2017_3131672.3131695.jpg
   publisher: ACM Conference on Embedded Network Sensor Systems Sensys 2017
   date: '2017-11-16'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:zYLM7Y9cAGgC
@@ -131,6 +141,7 @@
   - Youngbin Im
   - Jongdeog Lee
   - Sangtae Ha
+  image: images/publications/paper_2017_INFOCOM.2017.8057140.jpg
   publisher: IEEE INFOCOM 2017-IEEE Conference on Computer Communications
   date: '2017-05-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Y0pCki6q_DkC
@@ -143,6 +154,7 @@
   - Sangtae Ha
   - Richard Han
   - Eric Keller
+  image: images/publications/paper_2017_arXiv.1707.07780.jpg
   publisher: arXiv preprint arXiv:1707.07780
   date: '2017-07-25'
   link: https://doi.org/10.48550/arXiv.1707.07780
@@ -157,6 +169,7 @@
   - Carlee Joe-Wong
   - Taekyoung Kwon
   - Sangtae Ha
+  image: images/publications/paper_2017_ICDCS.2017.195.jpg
   publisher: "2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS)"
   date: '2017-06-05'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:d1gkVwhDpl0C
@@ -171,6 +184,7 @@
   - Hanna Lim
   - Taejoong Chung
   - Dookyoon Han
+  image: images/publications/patent_2016_US9398337B2.jpg
   publisher: United States Patent US9398337 B2
   date: '2016-07-19'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:WF5omc3nYNoC
@@ -182,6 +196,7 @@
   - Youngbin Im
   - Eric Keller
   - Sangtae Ha
+  image: images/publications/paper_2018_j.comnet.2018.01.019.jpg
   publisher: Elsevier Computer Networks
   date: '2018-03-14'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:ufrVoPGSRksC
@@ -194,6 +209,7 @@
   - Tae Hwan Kim
   - Yong Geun Hong
   - Sangtae Ha
+  image: images/publications/paper_2018_CISS.2018.8362281.jpg
   publisher: 2018 52nd Annual Conference on Information Sciences and Systems (CISS)
   date: '2018-03-21'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:_FxGoFyzp5QC
@@ -207,6 +223,7 @@
   - Youngbin Im
   - Sangtae Ha
   - Luca Doro
+  image: images/publications/paper_2018_j.compag.2019.02.004.jpg
   publisher: Computers and Electronics in Agriculture
   date: '2019-03-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:roLk4NBRz8UC
@@ -221,6 +238,7 @@
   - Carlee Joe-Wong
   - Kyunghan Lee
   - Sangtae Ha
+  image: images/publications/paper_2019_3302424.3303961.jpg
   publisher: The Fourteenth EuroSys Conference 2019 
   date: '2019-03-25'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UebtZRa9Y70C
@@ -231,6 +249,7 @@
   - Jinsung Lee
   - Youngbin Im
   - Jeongkeun Lee
+  image: images/publications/paper_2019_LCOMM.2019.2898664.jpg
   publisher: IEEE communications letters
   date: '2019-02-10'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Se3iqnhoufwC
@@ -248,6 +267,7 @@
   - Carlee Joe-Wong
   - Dirk Grunwald
   - Sangtae Ha
+  image: images/publications/paper_2019_3307334.3326086.jpg
   publisher: The 17th Annual International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2019)
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:8k81kl-MbHgC
@@ -265,6 +285,7 @@
   - Carlee Joe-Wong
   - Dirk Grunwald
   - Sangtae Ha
+  image: images/publications/paper_2019_3307334.3328576.jpg
   publisher: The 17th Annual International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2019)
   date: '2019-06-12'
   link: https://dl.acm.org/doi/abs/10.1145/3307334.3328576
@@ -280,6 +301,7 @@
   - Eric Wustrow
   - Dirk Grunwald
   - Sangtae Ha
+  image: images/publications/paper_2019_3307334.3326082.jpg
   publisher: The 17th Annual International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2019)
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:5nxA0vEk-isC
@@ -295,6 +317,7 @@
   - Eric Wustrow
   - Dirk Grunwald
   - Sangtae Ha
+  image: images/publications/paper_2019_3307334.3328572.jpg
   publisher: The 17th Annual International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2019)
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:0EnyYjriUFMC
@@ -310,6 +333,7 @@
   - Eric Wustrow
   - Dirk Grunwald
   - Sangtae Ha
+  image: images/publications/paper_2019_3307334.3328572.jpg
   publisher: The 17th Annual International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2019)
   date: '2019-06-12'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:4DMP91E08xMC
@@ -322,6 +346,7 @@
   - Gueyoung Jung
   - Carlee Joe-Wong
   - Sangtae Ha
+  image: images/publications/paper_2019_ICDCS.2019.00010.jpg
   publisher: "2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS)"
   date: '2019-07-07'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Zph67rFs4hoC
@@ -335,6 +360,7 @@
   - Maria Gorlotova
   - Sangtae Ha
   - Carlee Joe-Wong
+  image: images/publications/paper_2019_ISCA(2019).jpg
   publisher: IEEE/ACM ISCA Workshop on Machine Learning for Systems 2019
   date: '2019-06-23'
   link: https://mlforsystems.org/assets/papers/isca2019/MLforSystems2019_Xiaoxi_Zhang.pdf
@@ -348,6 +374,7 @@
   - Maria Gorlotova
   - Sangtae Ha
   - Carlee Joe-Wong
+  image: images/publications/paper_2019_ICNP.2019.8888100.jpg
   publisher: 2019 IEEE 27th International Conference on Network Protocols (ICNP)
   date: '2019-10-08'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:kNdYIx-mwKoC
@@ -374,6 +401,7 @@
   - Eric Keller
   - Eric Rozner
   - Youngbin Im
+  image: images/publications/paper_2020_ICDCS47774.2020.00090.jpg
   publisher: "2020 IEEE 40th International Conference on Distributed Computing Systems (ICDCS)"
   date: '2020-11-29'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:_kc_bZDykSQC
@@ -390,9 +418,10 @@
   - Fatemah Al-Duoli
   - Carlee Joe-Wong
   - Sangtae Ha
+  image: images/publications/paper_2020_ICDCS47774.2020.00112.jpg
   publisher: "2020 IEEE 40th International Conference on Distributed Computing Systems (ICDCS)"
   date: '2020-11-29'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:qxL8FJ1GzNc
+  link: https://ieeexplore.ieee.org/document/9355682
 
 - id: patent:US10631030B2
   title: Method for providing video streaming service and mobile device for same
@@ -404,6 +433,7 @@
   - Ji-Cheol Lee
   - Youngbin Im
   - Taejoong Chung
+  image: images/publications/patent_2020_US10631030B2.jpg
   publisher: (United States Patent US10631030 B2) 
   date: '2020-04-21'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:eQOLeE2rZwMC
@@ -418,6 +448,7 @@
   - Jung-Shin Park
   - Ji-Cheol Lee
   - Joo-hyung Lee
+  image: images/publications/patent_2020_US10560389B2.jpg
   publisher: (United States Patent US10560389 B2)
   date: '2020-02-11'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:IjCSPb-OGe4C
@@ -441,7 +472,7 @@
   - Junseon Kim
   - Youngbin Im
   - Kyunghan Lee
-  image: images/publications/patent_2024_1027246120000.jpg
+  image: images/publications/paper_2021_INFOCOM42981.2021.9488762.jpg
   publisher: IEEE INFOCOM 2021-IEEE Conference on Computer Communications
   date: '2021-05-10'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:Wp0gIr-vW9MC
@@ -555,6 +586,7 @@
   - D Butnariu
   - J Bawa
   - M. Chiang
+  image: images/publications/paper_2012_INFOCOM2012Demo.jpg
   publisher: 'IEEE INFOCOM 2012-IEEE Conference on Computer Communications'
   date: '2012-03-25'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:UeHWp8X0CEIC
@@ -569,9 +601,10 @@
   - Xiaoxi Zhang
   - Sangtae Ha
   - Carlee Joe-Wong
+  image: images/publications/paper_2022_INFOCOM48880.2022.9796680.jpg
   publisher: IEEE INFOCOM 2022
-  date: '2022-03-02'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oktgJK8AAAAJ&pagesize=100&citation_for_view=oktgJK8AAAAJ:mVmsd5A6BfQC
+  date: '2022-05-02'
+  link: https://ieeexplore.ieee.org/document/9796680
 
 - id: doi:10.1109/IWQOS52092.2021.9521352
   title: 'Modems: Optimizing edge computing migrations for user mobility'
@@ -582,9 +615,10 @@
   - Xiaoxi Zhang
   - Sangtae Ha
   - Carlee Joe-Wong
+  image: images/publications/paper_2021_IWQOS52092.2021.9521352.jpg
   publisher: IEEE/ACM IWQOS 2021
   date: '2021-06-25'
-  link: https://ieeexplore.ieee.org/abstract/document/9796680/
+  link: https://ieeexplore.ieee.org/document/9521352
 
 - id: patent:1027246120000
   title: '스마트 네트워크 인터페이스 카드의 오프로딩을 통한 키 밸류 스토어 성능 향상 방법 및 장치 (METHOD AND APPARATUS FOR IMPROVING KEY VALUE STORE PERFORMANCE THROUGH OFFLOADING OF SMART NETWORK INTERFAC)'
