@@ -5,7 +5,7 @@ role: current-ms
 aliases:
   - Y. Jeong
 links:
-  email: yoon0216@unist.ac.kr
+  email: jeong.ys@unist.ac.kr
   github: Jeong-Yunseo
 ---
 
