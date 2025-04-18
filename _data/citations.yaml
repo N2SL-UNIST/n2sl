@@ -692,3 +692,16 @@
   image: images/publications/patent_2024_1027246120000.jpg
   plugin: sources.py
   file: sources.yaml
+- id: patent:1027952070000
+  title: "SMART NIC\uC744 \uD1B5\uD574 TCP \uD504\uB85C\uD1A0\uCF5C\uC744 \uAC00\uC18D\
+    \uD654\uD558\uB294 \uC7A5\uCE58 \uBC0F \uBC29\uBC95 (METHOD AND APPARATUS FOR\
+    \ ACCELERATING TCP PROTOCOL THROUGH SMART NIC)"
+  authors:
+  - "\uC784\uC601\uBE48 (Youngbin Im)"
+  - "\uAE40\uD604\uC218 (Hyunsu Kim)"
+  publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
+  date: '2025-04-14'
+  link: http://www.kipris.or.kr/khome/main.jsp
+  image: images/publications/patent_2025_1027952070000.jpg
+  plugin: sources.py
+  file: sources.yaml
