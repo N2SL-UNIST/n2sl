@@ -629,3 +629,13 @@
   publisher: '특허청 (KOREAN INTELLECTUAL PROPERTY OFFICE)'
   date: '2024-10-28'
   link: http://www.kipris.or.kr/khome/main.jsp
+
+- id: patent:1027952070000
+  title: 'SMART NIC을 통해 TCP 프로토콜을 가속화하는 장치 및 방법 (METHOD AND APPARATUS FOR ACCELERATING TCP PROTOCOL THROUGH SMART NIC)'
+  authors:
+  - 임영빈 (Youngbin Im)
+  - 김현수 (Hyunsu Kim)
+  image: images/publications/patent_2025_1027952070000.jpg
+  publisher: '특허청 (KOREAN INTELLECTUAL PROPERTY OFFICE)'
+  date: '2025-04-14'
+  link: http://www.kipris.or.kr/khome/main.jsp
