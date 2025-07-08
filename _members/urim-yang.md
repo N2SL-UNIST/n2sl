@@ -1,7 +1,7 @@
 ---
 name: Urim Yang
 image: images/People/urim-yang.jpg
-role: Undergraduate Student
+role: current-undergrad
 aliases:
   - U. Yang
 links:
