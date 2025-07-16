@@ -639,3 +639,14 @@
   publisher: '특허청 (KOREAN INTELLECTUAL PROPERTY OFFICE)'
   date: '2025-04-14'
   link: http://www.kipris.or.kr/khome/main.jsp
+
+- id: patent:PCT/KR2025/010389
+  title: '스마트닉 기반 네트워크 트래픽 가속 장치 및 방법'
+  authors:
+  - 임영빈 (Youngbin Im)
+  - 이다은 (Daeun Lee)
+  image: images/publications/patent_2025_PCT_KR2025_010389.jpg
+  publisher: '특허청 (KOREAN INTELLECTUAL PROPERTY OFFICE)'
+  date: '2025-07-15'
+  link: http://www.kipris.or.kr/khome/main.jsp
+
