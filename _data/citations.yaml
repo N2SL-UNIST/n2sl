@@ -705,3 +705,16 @@
   image: images/publications/patent_2025_1027952070000.jpg
   plugin: sources.py
   file: sources.yaml
+- id: patent:PCT/KR2025/010389
+  title: "\uC2A4\uB9C8\uD2B8\uB2C9 \uAE30\uBC18 \uB124\uD2B8\uC6CC\uD06C \uD2B8\uB798\
+    \uD53D \uAC00\uC18D \uC7A5\uCE58 \uBC0F \uBC29\uBC95 (SMARTNIC-BASED NETWORK TRAFFIC\
+    \ ACCELERATION APPARATUS  AND METHOD)"
+  authors:
+  - "\uC784\uC601\uBE48 (Youngbin Im)"
+  - "\uC774\uB2E4\uC740 (Daeun Lee)"
+  publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
+  date: '2025-07-15'
+  link: https://patentscope.wipo.int/search/ko/search.jsf
+  image: images/publications/patent_2025_PCT_KR2025_010389.jpg
+  plugin: sources.py
+  file: sources.yaml
