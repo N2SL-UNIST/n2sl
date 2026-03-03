@@ -1,7 +1,7 @@
 ---
 title: Hello world!
 tags:
-author: 
+author: Daeun Lee
 member: 
 ---
 
