@@ -620,7 +620,7 @@
   date: '2021-06-25'
   link: https://ieeexplore.ieee.org/document/9521352
 
-- id: patent:1027246120000
+- id: patent:KR1027246120000
   title: '스마트 네트워크 인터페이스 카드의 오프로딩을 통한 키 밸류 스토어 성능 향상 방법 및 장치 (METHOD AND APPARATUS FOR IMPROVING KEY VALUE STORE PERFORMANCE THROUGH OFFLOADING OF SMART NETWORK INTERFAC)'
   authors:
   - 임영빈 (Youngbin Im)
@@ -630,7 +630,7 @@
   date: '2024-10-28'
   link: http://www.kipris.or.kr/khome/main.jsp
 
-- id: patent:1027952070000
+- id: patent:KR1027952070000
   title: 'SMART NIC을 통해 TCP 프로토콜을 가속화하는 장치 및 방법 (METHOD AND APPARATUS FOR ACCELERATING TCP PROTOCOL THROUGH SMART NIC)'
   authors:
   - 임영빈 (Youngbin Im)
@@ -681,7 +681,7 @@
   date: '2025-11-19'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12566904
 
-- id: patent:102912524
+- id: patent:KR102912524
   title: '페이지 폴트 핸들링 장치 및 방법 (ELECTRONIC DEVICE AND METHOD FOR PAGE FAULT HANDLING)'
   authors:
   - 임영빈 (Youngbin Im)
