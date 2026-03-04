@@ -620,7 +620,7 @@
   date: '2021-06-25'
   link: https://ieeexplore.ieee.org/document/9521352
 
-- id: patent:1027246120000
+- id: patent:KR1027246120000
   title: '스마트 네트워크 인터페이스 카드의 오프로딩을 통한 키 밸류 스토어 성능 향상 방법 및 장치 (METHOD AND APPARATUS FOR IMPROVING KEY VALUE STORE PERFORMANCE THROUGH OFFLOADING OF SMART NETWORK INTERFAC)'
   authors:
   - 임영빈 (Youngbin Im)
@@ -630,7 +630,7 @@
   date: '2024-10-28'
   link: http://www.kipris.or.kr/khome/main.jsp
 
-- id: patent:1027952070000
+- id: patent:KR1027952070000
   title: 'SMART NIC을 통해 TCP 프로토콜을 가속화하는 장치 및 방법 (METHOD AND APPARATUS FOR ACCELERATING TCP PROTOCOL THROUGH SMART NIC)'
   authors:
   - 임영빈 (Youngbin Im)
@@ -650,3 +650,44 @@
   date: '2025-07-15'
   link: https://patentscope.wipo.int/search/ko/search.jsf
 
+- id: patent:PCT/KR2025/017758
+  title: '접근이 제한된 시스템 정보를 애플리케이션에 제공하는 서비스 제공 방법 및 시스템 (METHOD AND APPARATUS FOR PROVIDING SYSTEM INFORMATION TO APPLICATIONS IN RESTRICTED ACCESS ENVIRONMENTS)'
+  authors:
+  - 임영빈 (Youngbin Im)
+  - 김민석 (Minseok Kim)
+  image: images/publications/patent_2025_PCT_KR2025_017758.jpg
+  publisher: '특허청 (KOREAN INTELLECTUAL PROPERTY OFFICE)'
+  date: '2025-10-31'
+  link: https://patentscope.wipo.int/search/ko/search.jsf
+
+- id: do:KICS2025F01
+  title: 'BlueField-3 SmartNIC 기반 오프로드 연산의 성능 분석'
+  authors:
+  - Seyeong Park
+  - Hyunsu Kim
+  - Youngbin Im
+  image: images/publications/paper_2025_KICS2025F01.jpg
+  publisher: KICS Fall Conference 2025
+  date: '2025-11-19'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12567140
+
+- id: do:KICS2025F02
+  title: 'SAMS: SmartNIC-Assisted Disaggregated Memory System'
+  authors:
+  - Seunghyeok Choi
+  - Youngbin Im
+  image: images/publications/paper_2025_KICS2025F02.jpg
+  publisher: KICS Fall Conference 2025
+  date: '2025-11-19'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12566904
+
+- id: patent:KR102912524
+  title: '페이지 폴트 핸들링 장치 및 방법 (ELECTRONIC DEVICE AND METHOD FOR PAGE FAULT HANDLING)'
+  authors:
+  - 임영빈 (Youngbin Im)
+  - 이봉원 (Bongwon Lee)
+  - 최승혁 (Seunghyeok Choi)
+  image: images/publications/patent_2026_102912524.jpg
+  publisher: '특허청 (KOREAN INTELLECTUAL PROPERTY OFFICE)'
+  date: '2026-01-09'
+  link: http://www.kipris.or.kr/khome/main.jsp

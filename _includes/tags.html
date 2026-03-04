@@ -1,8 +1,12 @@
 {% assign tags = include.tags
   | object_items
   | join: ","
+  | downcase
   | split: ","
   | array_filter
+  | join: ","
+  | regex_replace: "\s+", "-"
+  | split: ","
   | uniq
 %}
 {% assign link = include.link | default: page.dir | absolute_url %}
@@ -10,15 +14,12 @@
   <div
     class="tags"
     {% if include.repo %}
-      data-repo="{{ include.repo }}"
+      data-repo="{{ include.repo | xml_escape }}"
     {% endif %}
-    {% if link %}
-      data-link="{{ link }}"
-    {% endif %}
-  >
+    >
     {% for tag in tags %}
       <a
-        href="{{ link }}?search=&quot;tag: {{ tag }}&quot;"
+        href="{{ link | relative_url }}?search=&quot;tag: {{ tag }}&quot;"
         class="tag"
         data-tooltip="Show items with the tag &quot;{{ tag }}&quot;"
       >

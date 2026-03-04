@@ -677,7 +677,7 @@
   image: images/publications/paper_2021_IWQOS52092.2021.9521352.jpg
   plugin: sources.py
   file: sources.yaml
-- id: patent:1027246120000
+- id: patent:KR1027246120000
   title: "\uC2A4\uB9C8\uD2B8 \uB124\uD2B8\uC6CC\uD06C \uC778\uD130\uD398\uC774\uC2A4\
     \ \uCE74\uB4DC\uC758 \uC624\uD504\uB85C\uB529\uC744 \uD1B5\uD55C \uD0A4 \uBC38\
     \uB958 \uC2A4\uD1A0\uC5B4 \uC131\uB2A5 \uD5A5\uC0C1 \uBC29\uBC95 \uBC0F \uC7A5\
@@ -692,7 +692,7 @@
   image: images/publications/patent_2024_1027246120000.jpg
   plugin: sources.py
   file: sources.yaml
-- id: patent:1027952070000
+- id: patent:KR1027952070000
   title: "SMART NIC\uC744 \uD1B5\uD574 TCP \uD504\uB85C\uD1A0\uCF5C\uC744 \uAC00\uC18D\
     \uD654\uD558\uB294 \uC7A5\uCE58 \uBC0F \uBC29\uBC95 (METHOD AND APPARATUS FOR\
     \ ACCELERATING TCP PROTOCOL THROUGH SMART NIC)"
@@ -716,5 +716,56 @@
   date: '2025-07-15'
   link: https://patentscope.wipo.int/search/ko/search.jsf
   image: images/publications/patent_2025_PCT_KR2025_010389.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:PCT/KR2025/017758
+  title: "\uC811\uADFC\uC774 \uC81C\uD55C\uB41C \uC2DC\uC2A4\uD15C \uC815\uBCF4\uB97C\
+    \ \uC560\uD50C\uB9AC\uCF00\uC774\uC158\uC5D0 \uC81C\uACF5\uD558\uB294 \uC11C\uBE44\
+    \uC2A4 \uC81C\uACF5 \uBC29\uBC95 \uBC0F \uC2DC\uC2A4\uD15C (METHOD AND APPARATUS\
+    \ FOR PROVIDING SYSTEM INFORMATION TO APPLICATIONS IN RESTRICTED ACCESS ENVIRONMENTS)"
+  authors:
+  - "\uC784\uC601\uBE48 (Youngbin Im)"
+  - "\uAE40\uBBFC\uC11D (Minseok Kim)"
+  publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
+  date: '2025-10-31'
+  link: https://patentscope.wipo.int/search/ko/search.jsf
+  image: images/publications/patent_2025_PCT_KR2025_017758.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: do:KICS2025F01
+  title: "BlueField-3 SmartNIC \uAE30\uBC18 \uC624\uD504\uB85C\uB4DC \uC5F0\uC0B0\uC758\
+    \ \uC131\uB2A5 \uBD84\uC11D"
+  authors:
+  - Seyeong Park
+  - Hyunsu Kim
+  - Youngbin Im
+  publisher: KICS Fall Conference 2025
+  date: '2025-11-19'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12567140
+  image: images/publications/paper_2025_KICS2025F01.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: do:KICS2025F02
+  title: 'SAMS: SmartNIC-Assisted Disaggregated Memory System'
+  authors:
+  - Seunghyeok Choi
+  - Youngbin Im
+  publisher: KICS Fall Conference 2025
+  date: '2025-11-19'
+  link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12566904
+  image: images/publications/paper_2025_KICS2025F02.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:KR102912524
+  title: "\uD398\uC774\uC9C0 \uD3F4\uD2B8 \uD578\uB4E4\uB9C1 \uC7A5\uCE58 \uBC0F \uBC29\
+    \uBC95 (ELECTRONIC DEVICE AND METHOD FOR PAGE FAULT HANDLING)"
+  authors:
+  - "\uC784\uC601\uBE48 (Youngbin Im)"
+  - "\uC774\uBD09\uC6D0 (Bongwon Lee)"
+  - "\uCD5C\uC2B9\uD601 (Seunghyeok Choi)"
+  publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
+  date: '2026-01-09'
+  link: http://www.kipris.or.kr/khome/main.jsp
+  image: images/publications/patent_2026_102912524.jpg
   plugin: sources.py
   file: sources.yaml
