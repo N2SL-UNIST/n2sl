@@ -37,6 +37,22 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/paper_2023_TNET.2023.3268721.jpg
+- id: doi:10.1109/TMC.2022.3162880
+  title: Optimal Network Protocol Selection for Competing Flows via Online Learning
+  authors:
+  - Xiaoxi Zhang
+  - Siqi Chen
+  - Yunfan Zhang
+  - Youngbin Im
+  - Maria Gorlatova
+  - Sangtae Ha
+  - Carlee Joe-Wong
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2023-08-01'
+  link: https://doi.org/gtqpqz
+  orcid: 0000-0003-3756-5956
+  plugin: orcid.py
+  file: orcid.yaml
 - id: do:CFI(2008)061801
   title: A Femtocell-based Testbed for Evaluating Future Cellular Networks
   authors:
