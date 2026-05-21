@@ -691,3 +691,27 @@
   publisher: '특허청 (KOREAN INTELLECTUAL PROPERTY OFFICE)'
   date: '2026-01-09'
   link: http://www.kipris.or.kr/khome/main.jsp
+
+- id: doi:10.1016/j.icte.2026.04.006
+  title: 'LatScope: End-to-end latency decomposition across the cloud network stack'
+  authors:
+  - Bongwon Lee
+  - Yunseo Jeong
+  - Woongsub Shin
+  - Sangtae Ha
+  - Youngbin Im
+  image: images/publications/paper_2026_ICTE_j.icte.2026.04.006.jpg
+  publisher: ICT Express
+  date: '2026-04-16'
+  link: https://www.sciencedirect.com/science/article/pii/S2405959526000676
+
+- id: patent:PCT/KR2026/005960
+  title: '실시간 서비스를 위한 이중 레벨 클라우드 자원 제어 시스템 및 그 제어 방법 (SYSTEM FOR CONTROLLING DUAL-LEVEL CLOUD RESOURCES FOR REAL-TIME SERVICES AND METHOD FOR CONTROLLING THE SAME)'
+  authors:
+  - 안예온 (Yeon An)
+  - 정윤서 (Yunseo Jeong)
+  - 임영빈 (Youngbin Im)
+  image: images/publications/patent_2026_PCT_KR2026_005960.jpg
+  publisher: '특허청 (KOREAN INTELLECTUAL PROPERTY OFFICE)'
+  date: '2026-05-11'
+  link: https://patentscope.wipo.int/search/ko/search.jsf

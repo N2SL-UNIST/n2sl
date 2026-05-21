@@ -769,3 +769,32 @@
   image: images/publications/patent_2026_102912524.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.icte.2026.04.006
+  title: 'LatScope: End-to-end latency decomposition across the cloud network stack'
+  authors:
+  - Bongwon Lee
+  - Yunseo Jeong
+  - Woongsub Shin
+  - Sangtae Ha
+  - Youngbin Im
+  publisher: ICT Express
+  date: '2026-04-16'
+  link: https://www.sciencedirect.com/science/article/pii/S2405959526000676
+  image: images/publications/paper_2026_ICTE_j.icte.2026.04.006.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:PCT/KR2026/005960
+  title: "\uC2E4\uC2DC\uAC04 \uC11C\uBE44\uC2A4\uB97C \uC704\uD55C \uC774\uC911 \uB808\
+    \uBCA8 \uD074\uB77C\uC6B0\uB4DC \uC790\uC6D0 \uC81C\uC5B4 \uC2DC\uC2A4\uD15C \uBC0F\
+    \ \uADF8 \uC81C\uC5B4 \uBC29\uBC95 (SYSTEM FOR CONTROLLING DUAL-LEVEL CLOUD RESOURCES\
+    \ FOR REAL-TIME SERVICES AND METHOD FOR CONTROLLING THE SAME)"
+  authors:
+  - "\uC548\uC608\uC628 (Yeon An)"
+  - "\uC815\uC724\uC11C (Yunseo Jeong)"
+  - "\uC784\uC601\uBE48 (Youngbin Im)"
+  publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
+  date: '2026-05-11'
+  link: https://patentscope.wipo.int/search/ko/search.jsf
+  image: images/publications/patent_2026_PCT_KR2026_005960.jpg
+  plugin: sources.py
+  file: sources.yaml
