@@ -450,7 +450,7 @@
   file: sources.yaml
 - id: issn:1029-7006/140487542
   title: Integrated Large-Scale Modeling Framework for N2O Emissions Estimation in
-    an Agricultural Field using Parallel Computing.
+    an Agricultural Field using Parallel Computing
   authors:
   - Won Seok Jang
   - Jason Neff
@@ -796,5 +796,46 @@
   date: '2026-05-11'
   link: https://patentscope.wipo.int/search/ko/search.jsf
   image: images/publications/patent_2026_PCT_KR2026_005960.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:KR102979540
+  title: "\uB124\uD2B8\uC6CC\uD06C \uC131\uB2A5 \uBD84\uC11D \uBC29\uBC95 \uBC0F \uC7A5\
+    \uCE58 (METHOD AND APPARATUS FOR ANALYZING NETWORK PERFORMANCE)'"
+  authors:
+  - "\uC784\uC601\uBE48 (Youngbin Im)"
+  - "\uC774\uBD09\uC6D0 (Bongwon Lee)"
+  publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
+  date: '2026-06-15'
+  link: https://patentscope.wipo.int/search/ko/search.jsf
+  image: images/publications/patent_2026_KR102979540.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:KR102980971
+  title: "\uC2E4\uC2DC\uAC04 \uC11C\uBE44\uC2A4\uB97C \uC704\uD55C \uC774\uC911 \uB808\
+    \uBCA8 \uD074\uB77C\uC6B0\uB4DC \uC790\uC6D0 \uC81C\uC5B4 \uC2DC\uC2A4\uD15C \uBC0F\
+    \ \uADF8 \uC81C\uC5B4 \uBC29\uBC95 (SYSTEM FOR CONTROLLING DUAL-LEVEL CLOUD RESOURCES\
+    \ FOR REAL-TIME SERVICES AND METHOD FOR CONTROLLING THE SAME)"
+  authors:
+  - "\uC784\uC601\uBE48 (Youngbin Im)"
+  - "\uC774\uB2E4\uC740 (Daeun Lee)"
+  publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
+  date: '2026-06-17'
+  link: https://patentscope.wipo.int/search/ko/search.jsf
+  image: images/publications/patent_2026_KR102980971.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: patent:KR103004228
+  title: "\uC2E4\uC2DC\uAC04 \uC11C\uBE44\uC2A4\uB97C \uC704\uD55C \uC774\uC911 \uB808\
+    \uBCA8 \uD074\uB77C\uC6B0\uB4DC \uC790\uC6D0 \uC81C\uC5B4 \uC2DC\uC2A4\uD15C \uBC0F\
+    \ \uADF8 \uC81C\uC5B4 \uBC29\uBC95 (SYSTEM FOR CONTROLLING DUAL-LEVEL CLOUD RESOURCES\
+    \ FOR REAL-TIME SERVICES AND METHOD FOR CONTROLLING THE SAME)"
+  authors:
+  - "\uC548\uC608\uC628 (Yeon An)"
+  - "\uC815\uC724\uC11C (Yunseo Jeong)"
+  - "\uC784\uC601\uBE48 (Youngbin Im)"
+  publisher: "\uD2B9\uD5C8\uCCAD (KOREAN INTELLECTUAL PROPERTY OFFICE)"
+  date: '2026-08-10'
+  link: https://patentscope.wipo.int/search/ko/search.jsf
+  image: images/publications/patent_2026_KR103004228.jpg
   plugin: sources.py
   file: sources.yaml
