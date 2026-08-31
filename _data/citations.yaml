@@ -450,7 +450,7 @@
   file: sources.yaml
 - id: issn:1029-7006/140487542
   title: Integrated Large-Scale Modeling Framework for N2O Emissions Estimation in
-    an Agricultural Field using Parallel Computing.
+    an Agricultural Field using Parallel Computing
   authors:
   - Won Seok Jang
   - Jason Neff
