@@ -25,7 +25,7 @@ env:
 jobs:
   update-citations:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 40
 
     steps:
       # for debugging
@@ -51,7 +51,7 @@ jobs:
 
       - name: Build updated citations
         run: python _cite/cite.py
-        timeout-minutes: 15
+        timeout-minutes: 30
 
       - name: Check if citations changed
         id: changed
