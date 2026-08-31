@@ -1,7 +1,7 @@
 ---
 name: YoungRhee Cho
 image: images/People/youngrhee-cho.jpg
-role: current-ms
+role: current-phd&ms
 aliases:
   - Y. Cho
 links:
